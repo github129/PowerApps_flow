@@ -143,7 +143,7 @@ layout: default
           {% endif %}
           {% if page.next.url %}
             <div class="col-md-6 text-right pr-0">
-                <a class="text-dark" href="{{ absolute_url}}"> {{page.next.title}} {% if page.next.image %} <img height="30px" class="ml-1" src="{{page.next.image | absolute_url}}"> {% endif %}</a>
+                <a class="text-dark" href="{{page.next.url | absolute_url}}"> {{page.next.title}} {% if page.next.image %} <img height="30px" class="ml-1" src="{{page.next.image | absolute_url}}"> {% endif %}</a>
             </div>
           {% endif %}
         </div>
