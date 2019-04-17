@@ -4,7 +4,7 @@ description: 'Mundana is a free Jekyll theme for awesome people like you, Medium
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 'https://github129.github.io/PowerApps_flow'
-basepath: './PowerApps_flow'
+basepath: './'
 disqus: 'PowerApps_Flow'
 email: 'wowthemesnet@gmail.com'
 mailchimp-list: './'
