@@ -8,43 +8,45 @@
 <!--<![endif]-->
 
 <head>
+    <!-- ファビコン -->
+    <link rel="icon" href="/assets/images/icons/favicon.ico">
     {% include common/meta.html %}
     <link href='{{ site.baseurl }}/assets/stylesheets/blog.css' rel="stylesheet" type="text/css">
     {% include common/libraries.html %}
     {% if site.google_tag_manager %}
-        {% include common/gtm-head.html %}
+    {% include common/gtm-head.html %}
     {% endif %}
     <meta name="google-site-verification" content="3929kLYek90sHmpMAvNwMsH7HAxj1YOxxcqkH1nKu7Q" />
-    <head>
-        <!--/* pwa */-->
-        <link rel="manifest" href="/manifest.json">
-        <meta name="theme-color" content="#efd1ef">
-    </head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142126563-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!--/* pwa */-->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#efd1ef">
 
-  gtag('config', 'UA-142126563-1');
-  
-  if ('serviceWorker' in navigator) {
-    console.log('Found serviceWorker');
-    navigator.serviceWorker.register('/sw.js')
-        .then((reg) => {
-            console.log('Service Worker Registered', reg);
-        });
-} else {
-    console.log('Not Found serviceWorker');
-}
-</script>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142126563-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-142126563-1');
+
+        if ('serviceWorker' in navigator) {
+            console.log('Found serviceWorker');
+            navigator.serviceWorker.register('/sw.js')
+                .then((reg) => {
+                    console.log('Service Worker Registered', reg);
+                });
+        } else {
+            console.log('Not Found serviceWorker');
+        }
+    </script>
 
 </head>
 
 <body>
     {% if site.google_tag_manager %}
-        {% include common/gtm-body.html %}
+    {% include common/gtm-body.html %}
     {% endif %}
 
     {% include common/notices.html %}
