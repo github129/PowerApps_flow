@@ -3,7 +3,7 @@
   "short_name": "PP流",
   "theme_color": "#efd1ef",
   "background_color": "#742774",
-  "display": "browser",
+  "display": "standalone",
   "Scope": "/",
   "start_url": "/",
   "icons": [
