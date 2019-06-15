@@ -11,5 +11,7 @@ redirect_from:
 
 # EasyRepro automated testing framework June Update is now available
 
-[We are happy to announce that we have shipped the June 2019 update for the EasyRepro automated testing framework on GitHub. The update is compatible with the Spring 2019 release and contains several API enhancements to support your automated testing efforts for Dynamics 365 and model-driven standalone PowerApps.
-](["https://powerapps.microsoft.com/ja-jp/blog/easyrepro-automated-testing-framework-june-update-is-now-available/"])
+We are happy to announce that we have shipped the June 2019 update for the EasyRepro automated testing framework on GitHub. The update is compatible with the Spring 2019 release and contains several API enhancements to support your automated testing efforts for Dynamics 365 and model-driven standalone PowerApps.
+
+
+["https://powerapps.microsoft.com/ja-jp/blog/easyrepro-automated-testing-framework-june-update-is-now-available/"]
