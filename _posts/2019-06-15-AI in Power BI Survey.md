@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI in Power BI Survey"
+title: "【Power BI公式ブログ】AI in Power BI Survey"
 description: "Take this short survey to influence our plans for AI in Power BI
 "
 categories: [公式ブログ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Help improve Power BI – Quarterly survey"
+title: "【Power BI公式ブログ】Help improve Power BI – Quarterly survey"
 description: "Take our quarterly survey to help us continue to improve Power BI.
 "
 categories: [公式ブログ]

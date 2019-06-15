@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Watch all the PowerApps, Power BI and Microsoft Flow sessions from Microsoft Business..."
+title: "【PowerApps公式ブログ】Watch all the PowerApps, Power BI and Microsoft Flow sessions from Microsoft Business..."
 description: "You may have seen all the tweets, news and announcements made at the Microsoft Business Summit this week and thought you missed out, but not to worry!!   You can explore 200+ sessions from Microsoft Business Applications Summit, available now in the PowerApps Community.
 "
 categories: [公式ブログ]

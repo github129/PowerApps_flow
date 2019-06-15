@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On demand now — full session lineup from Microsoft Business Applications Summit!"
+title: "【Power BI公式ブログ】On demand now — full session lineup from Microsoft Business Applications Summit!"
 description: "The conference might be over, but there’s so much more in store! Get ready to transform your business with the latest in Microsoft Business Applications. Explore 200+ sessions, workshops, and keynotes from Microsoft Business Applications Summit, available now in the Power BI Community.
 "
 categories: [公式ブログ]
