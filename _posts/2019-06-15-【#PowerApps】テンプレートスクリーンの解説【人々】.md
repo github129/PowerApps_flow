@@ -31,7 +31,7 @@ PowerApps のキャンバスアプリのテンプレートスクリーンの1つ
 機能は item プロパティに定義されています。
 
 
-``` UserBrowseGallery1.item
+```
 
 If(!IsBlank(Trim(TextSearchBox1.Text)), 'Office365ユーザー'.SearchUser({searchTerm: Trim(TextSearchBox1.Text), top: 15}))
 
@@ -113,7 +113,7 @@ UserBrowseGallery1 は表示機能を担っていましたが、こちらは選�
 
 Title2 を選択した状態で、アクション→選択時を押すと処理を確認することができます。
 
-```Title2.OnSelect
+```
 /*Select user, clear search contents and if this user hasn't been added to MyPeople collection, add them*/
 Concurrent(
 Set(_selectedUser, ThisItem),
@@ -209,7 +209,7 @@ PeopleAddedGallery1のitemには先ほど保管された MyPeople コレクシ�
 
 iconRemove1 はユーザー削除機能が実装されています。
 
-```iconRemove1.OnSelect
+```
 Remove(MyPeople, LookUp(MyPeople, UserPrincipalName = ThisItem.UserPrincipalName))
 ```
 
