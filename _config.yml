@@ -23,8 +23,8 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
+title: Power Platform流
+description: "Power Platformに関する記事や実際のサンプルを作成するブログ"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
   name:
@@ -47,7 +47,7 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Power Platform.work</h1>
+  section1: <h1>Power Platform流</h1>
   section2: <h2>Power Platformに関する記事や実際のサンプルを作成するブログ</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/github129/PowerApps_flow" title="View on GitHub"></a></div>
 blog:
