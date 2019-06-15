@@ -36,7 +36,7 @@ author:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://github.com/github129/PowerApps_flow
     - name: instagram
       url:
     - name: linkedin
@@ -48,9 +48,9 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Simple Texutre</h1>
-  section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section1: <h1>Power Platform.work</h1>
+  section2: <h2>Power Platformに関する記事や実際のサンプルを作成するブログ</h2>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/github129/PowerApps_flow" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
