@@ -11,5 +11,5 @@ redirect_from:
 
 # Watch all the PowerApps, Power BI and Microsoft Flow sessions from Microsoft Business Applications Summit on demand
 
-[<p>You may have seen all the tweets, news and announcements made at the Microsoft Business Summit this week and thought you missed out, but not to worry!!   You can explore 200+ sessions from Microsoft Business Applications Summit, available now in the PowerApps Community.</p>
+[You may have seen all the tweets, news and announcements made at the Microsoft Business Summit this week and thought you missed out, but not to worry!!   You can explore 200+ sessions from Microsoft Business Applications Summit, available now in the PowerApps Community.
 ](["https://powerapps.microsoft.com/ja-jp/blog/watch-all-the-powerapps-flow-and-power-bi-sessions-from-microsoft-business-applications-summit-on-demand/"])
