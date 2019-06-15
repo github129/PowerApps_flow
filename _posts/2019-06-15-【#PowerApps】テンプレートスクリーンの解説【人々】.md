@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "当ブログについて"
-description: "The first 'Hello world' post for Simple Texture theme."
-categories: [uncategorized]
-tags: [About, 当ブログについて]
+title: "【#PowerApps】テンプレートスクリーンの解説【人々】"
+description: "PowerApps に用意されているテンプレートスクリーンの「人々」の解説です。"
+categories: [PowerApps]
+tags: [PowerApps, 初心者向け, 解説, キャンバスアプリ]
 redirect_from:
-  - /2019/06/14/
+  - /2019/06/15/
 ---
 # 概要
 PowerApps に用意されているテンプレートスクリーンの「人々」の解説です。
