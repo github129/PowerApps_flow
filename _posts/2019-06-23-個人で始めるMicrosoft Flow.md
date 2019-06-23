@@ -15,10 +15,12 @@ Microsoft 製の [IFTTT](https://ifttt.com/) のようなサービスで、None 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4EKWKJc4b4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 よく使われる場面として、
-「何かを自動化したい」
-「どこかにデータを渡したい」
 
-といった場面に利用されます。
+- 「何かを自動化したい」
+- 「どこかにデータを渡したい」
+
+に利用されます。
+
 具体的に
 
 - 「特定のメールは上司に転送する」
