@@ -63,11 +63,11 @@ MIcrosoft Flow は制限はありますが、個人アカウント（Microsoft�
 <a class="post-image" href="/assets/blogpost/2019/2019-06-23-01.PNG">
 <img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-01.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Microsoft アカウント作成01" />
 </a>
-</br>
+<br>
 <a class="post-image" href="/assets/blogpost/2019/2019-06-23-02.PNG">
 <img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-02.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Microsoft アカウント作成02" />
 </a>
-</br>
+<br>
 <a class="post-image" href="/assets/blogpost/2019/2019-06-23-03.PNG">
 <img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-03.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Microsoft アカウント作成03" />
 </a>
@@ -81,7 +81,7 @@ Microsoft アカウントすでに持っている又は作成後は Microsoft Fl
 <a class="post-image" href="/assets/blogpost/2019/2019-06-23-04.PNG">
 <img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-04.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Microsoft Flow ログイン01" />
 </a>
-</br>
+<br>
 
 任意の国を選択し「開始」を選択します。
 
@@ -127,7 +127,7 @@ Microsoft Flowには実行頻度という考え方があります。
 <a class="post-image" href="/assets/blogpost/2019/2019-06-23-06.PNG">
 <img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-06.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Microsoft Flow プラン01" />
 </a>
-</br>
+<br>
 <a class="post-image" href="/assets/blogpost/2019/2019-06-23-07.PNG">
 <img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-07.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Microsoft Flow プラン02" />
 </a>
