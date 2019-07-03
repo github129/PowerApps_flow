@@ -71,5 +71,5 @@ PowerApps をトリガーにして Forms Pro コネクタの Send a survey ア�
 </a>
 <br/>
 <a class="post-image" href="/assets/blogpost/2019/2019-07-03-004.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-007.PNG" src="/assets/javascripts/unveil/loader.gif" alt="個人設定4" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-004.PNG" src="/assets/javascripts/unveil/loader.gif" alt="個人設定4" />
 </a>
