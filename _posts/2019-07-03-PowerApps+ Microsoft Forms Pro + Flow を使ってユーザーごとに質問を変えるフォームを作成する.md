@@ -15,7 +15,7 @@ GAされたばかり Forms Pro と PowerApps + Flow を使ってユーザーご�
 
 # Forms Pro の調査結果
 
-[こちらから参照ください]()
+[こちらから参照ください](https://qiita.com/github129/items/da20be6c34f0bb636afa)
 
 # 作成
 
@@ -46,7 +46,7 @@ GAされたばかり Forms Pro と PowerApps + Flow を使ってユーザーご�
 PowerApps をトリガーにして Forms Pro コネクタの Send a survey アクションを指定します。
 
 <a class="post-image" href="/assets/blogpost/2019/2019-07-03-001.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-001.PNG" src="/assets/javascripts/unveil/loader.gif" alt="個人設定1" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-001.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Flow" />
 </a>
 
 
@@ -56,7 +56,7 @@ PowerApps をトリガーにして Forms Pro コネクタの Send a survey ア�
 
 
 <a class="post-image" href="/assets/blogpost/2019/2019-07-03-002.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-002.PNG" src="/assets/javascripts/unveil/loader.gif" alt="個人設定1" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-002.PNG" src="/assets/javascripts/unveil/loader.gif" alt="PowerApps" />
 </a>
 
 宛先相手にはメールアドレスが指定できます。
@@ -67,9 +67,9 @@ PowerApps をトリガーにして Forms Pro コネクタの Send a survey ア�
 
 
 <a class="post-image" href="/assets/blogpost/2019/2019-07-03-003.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-003.PNG" src="/assets/javascripts/unveil/loader.gif" alt="個人設定1" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-003.PNG" src="/assets/javascripts/unveil/loader.gif" alt="FormsPro1" />
 </a>
 <br/>
 <a class="post-image" href="/assets/blogpost/2019/2019-07-03-004.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-004.PNG" src="/assets/javascripts/unveil/loader.gif" alt="個人設定4" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-004.PNG" src="/assets/javascripts/unveil/loader.gif" alt="FormsPro2" />
 </a>
