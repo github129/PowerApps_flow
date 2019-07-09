@@ -31,8 +31,8 @@ redirect_from:
 3. 配置したギャラリーを コピー or 切り取り
 4. 配置したいデータカードを選択して貼り付け
 
-<a class="post-image" href="/assets/blogpost/2019/2019-07-09-002.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-09-002.PNG" src="/assets/javascripts/unveil/loader.gif" alt="フォームinギャラリー" />
+<a class="post-image" href="/assets/blogpost/2019/2019-07-09-002.png">
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-09-002.png" src="/assets/javascripts/unveil/loader.gif" alt="フォームinギャラリー" />
 </a>
 
 
