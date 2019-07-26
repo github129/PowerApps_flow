@@ -2,7 +2,7 @@
 layout: post
 title: "個人で無料で始める Microsoft Flow"
 description: "Microsoft Flow を企業や Office365 がないと利用できないと思っていませんか？Microsoft Flow はいくつかの制限はありますが、個人で無料で利用できるサービスです。"
-categories: [PowerApps]
+categories: [Flow]
 tags: [Flow, 初心者向け, 解説]
 redirect_from:
   - /2019/06/23/
