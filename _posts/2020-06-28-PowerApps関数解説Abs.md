@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Power Apps Abs 関数の使い方と解説"
-description: "Power Apps の キャンバスアプリ の Abs 関数に関する解説です。この記事を読むことで Abs の使い方をマスターすることができます。"
+description: "Power Apps の キャンバスアプリ の Abs 関数に関する解説です。この記事を読むことで Abs の使い方をマスターすることができます。Abs は 値 を 絶対値 に変換する関数です。"
 categories: [PowerApps]
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
 redirect_from:
@@ -14,7 +14,7 @@ Power Apps のキャンバスアプリの関数の解説と実際の使い方に
 今回解説する関数は Abs 関数になります。
 また、この情報は 2020/6/29 時点の日本環境でのものとなります。
 
-# Abs 関数とは
+# Abs 関数(絶対値)とは
 
 公式より
 ```
