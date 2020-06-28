@@ -2,7 +2,7 @@
 layout: post
 title: "Power Apps Abs 関数の使い方と解説"
 description: "Power Apps の キャンバスアプリ の Abs 関数に関する解説です。この記事を読むことで Abs の使い方をマスターすることができます。"
-categories: [PowerApps,関数解説,キャンバスアプリ]
+categories: [PowerApps]
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
 redirect_from:
   - /2020/06/28/
