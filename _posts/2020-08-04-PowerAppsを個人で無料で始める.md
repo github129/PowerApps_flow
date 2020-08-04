@@ -175,7 +175,7 @@ https://powerapps.microsoft.com/ja-jp/communityplan/
 <br>
 個人環境の作成を選択します。
 
-作成したアカウントでログインを行います。
+1つ前の手順で作成したアカウント (onmicrosoft.com) でログインを行います。
 
 <a class="post-image" href="/assets/blogpost/2020/0728-21.png">
 <img itemprop="image" data-src="/assets/blogpost/2020/0728-21.png" src="/assets/javascripts/unveil/loader.gif" alt="コミュニティプラン" />
@@ -202,7 +202,7 @@ Japan を選択して、「同意する」を選択します。
 
 これで Power Apps が利用できる個人環境が作成できました。もし、画面が表示されない場合は、F5 等でページを再リロードしてください。
 
-以上 Power Apps の環境の作り方は完了です。
+以上で Power Apps の環境の作り方は完了です。
 
 
 # まとめ
