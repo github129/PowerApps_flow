@@ -55,7 +55,7 @@ Microsoft Flowは
 
 # 個人での始め方
 
-MIcrosoft Flow は制限はありますが、個人アカウント（Microsoftアカウント）で利用できます。
+Microsoft Flow は制限はありますが、個人アカウント（Microsoftアカウント）で利用できます。
 つまり今から始める場合は hogehoge@outlook.jp といったアドレスで利用可能です。
 
 ## Microsoft アカウントを持っていない方
