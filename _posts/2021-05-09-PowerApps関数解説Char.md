@@ -5,7 +5,7 @@ description: "Power Apps の キャンバスアプリ の Char に関する解�
 categories: [PowerApps]
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
 redirect_from:
-  - /2021/05/09/
+  - /2021/05/10/
 ---
 
 #  概要
