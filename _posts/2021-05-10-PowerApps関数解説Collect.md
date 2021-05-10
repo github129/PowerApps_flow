@@ -63,7 +63,7 @@ Patch(SampleDB,Defaults(SampleDB),{Name:GUID()})
 
 ただし、上記の２つには以下のような違いが存在します。
 
-[Collect関数とPatch関数はデータを追加する時どちらを使うべき？２つの関数の違いは？]()
+[Collect関数とPatch関数はデータを追加する時どちらを使うべき？２つの関数の違いは？](https://www.powerplatform.work/blog/2021/05/10/PowerApps_CollectFunc_vs_PatchFunc/)
 
 # 使い方
 

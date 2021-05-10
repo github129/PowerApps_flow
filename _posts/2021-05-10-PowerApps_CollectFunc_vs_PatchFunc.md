@@ -16,7 +16,7 @@ Power Apps のキャンバスアプリのでデータソースに対してデー
 # Collect 関数とは
 
 こちらの記事をご参照ください
-[Power Apps 関数解説 Collect]()
+[Power Apps Collect 関数の使い方と解説](https://www.powerplatform.work/blog/2021/05/10/PowerApps%E9%96%A2%E6%95%B0%E8%A7%A3%E8%AA%ACCollect/)
 
 # Patch 関数とは
 
@@ -38,12 +38,17 @@ Collect(SampleDB,{Name:GUID()});
 ```
 
 ２度実行したので、４件登録されていますが、データソース上に違いはありません。
-![](2021-05-10-07-54-27.png)
+
+<a class="post-image" href="/assets/blogpost/2021/2021-05-10-07-54-27.png">
+<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-07-54-27.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+</a>
 
 では通信はどのようになっているでしょうか？
 もう一度実行してみましょう。
 
-![](2021-05-10-07-57-05.png)
+<a class="post-image" href="/assets/blogpost/2021/2021-05-10-07-57-05.png">
+<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-07-57-05.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+</a>
 
 ID2 が Patch 関数で ID6 が Collect 関数によるデータ追加です。
 どちらも同じように見えますが、実は通信している詳細なデータは異なります。
@@ -254,8 +259,12 @@ ForAll(sCol, Patch(SampleDB, Defaults(SampleDB), {Name:Name, sample:sample}));
 
 通信のみで 16.822 秒 です。
 
-![](2021-05-10-08-39-12.png)
-![](2021-05-10-08-39-23.png)
+<a class="post-image" href="/assets/blogpost/2021/2021-05-10-08-39-12.png">
+<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-08-39-12.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+</a>
+<a class="post-image" href="/assets/blogpost/2021/2021-05-10-08-39-23.png">
+<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-08-39-23.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+</a>
 
 次に Collect 関数
 
@@ -269,8 +278,15 @@ Collect(SampleDB,{Name:GUID(),sample:"test"},{Name:GUID(),sample:"test"},{Name:G
 getRows から計算すると 約 1.34 秒で完了
 
 通信のみの場合は 1.246 秒
-![](2021-05-10-08-27-36.png)
-![](2021-05-10-08-26-34.png)
+
+
+
+<a class="post-image" href="/assets/blogpost/2021/2021-05-10-08-27-36.png">
+<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-08-27-36.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+</a>
+<a class="post-image" href="/assets/blogpost/2021/2021-05-10-08-26-34.png">
+<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-08-26-34.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+</a>
 
 
 比較すると以下になります。
