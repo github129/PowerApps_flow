@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Power Apps ClearCollect 関数の使い方と解説"
-description: "Power Apps の キャンバスアプリ の Clear に関する解説です。この記事を読むことで　ClearCollect の使い方をマスターすることができます。ClearCollect とはコレクションを作成するときに使います"
+description: "Power Apps の キャンバスアプリ の ClearCollect に関する解説です。この記事を読むことで　ClearCollect の使い方をマスターすることができます。ClearCollect とはコレクションを作成するときに使います"
 categories: [PowerApps]
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
 redirect_from:
