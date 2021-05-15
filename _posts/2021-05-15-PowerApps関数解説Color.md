@@ -5,7 +5,7 @@ description: "Power Apps の キャンバスアプリ の Color に関する解�
 categories: [PowerApps]
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
 redirect_from:
-  - /2021/05/15/
+  - /2021/05/16/
 ---
 
 #  概要
