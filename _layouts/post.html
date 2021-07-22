@@ -1,85 +1,165 @@
----
-layout: blog
----
-<article class="unit-article layout-post">
-    <div class="unit-inner unit-article-inner">
-        <div itemscope itemtype="http://schema.org/Article" class="content">
-            <header>
-                <div class="unit-head">
-                    <div class="unit-inner unit-head-inner">
-                        <h1 class="entry-title" itemprop="name">{{ page.title }}</h1>
-                    </div>
-                </div>
-            </header>
-            <div class="bd article-content">
-                <div class="entry-content">
-                    <div class="meta">
-                        <p class="date-publish">
-                            {{ site.data.i18n[site.lang].published }}:
-                            <time itemprop="datePublished" class="date-pub {% if page.last_updated == null %}updated{% endif %}"
-                                title="{{ page.date | date_to_xmlschema }}" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B' }} {{ page.date | date: '%d' }}, {{ page.date | date: '%Y' }} </time>
-                            by
-                            <a class="author" href="/" rel="author" title="{{ site.data.i18n[site.lang].show_author }}">
-                                <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                                    <span itemprop="name">{% if page.author == null %}{{ site.author.name }}{% else %}{{ page.author }}{% endif %}</span>
-                                </span>
-                            </a>
-                            {% if site.blog.cc_license and site.blog.cc_license_image %}
-                                <a class="license-icon" rel="license" href="{{ site.blog.cc_license }}" target="_blank" title="{{ site.data.i18n[site.lang].show_license }}">
-                                    <img alt="Creative Commons Licence" style="border-width:0" src="{{ site.blog.cc_license_image | relative_url }}"  height="16" width="80"/>
-                                </a>
-                            {% endif %}
-                            {% if page.last_updated %}
-                                ({{ site.data.i18n[site.lang].last_updated}}:
-                                <time class="date-updated updated" title="{{ page.last_updated | date_to_xmlschema }}" datetime="{{ page.last_updated | date_to_xmlschema }}">{{ page.last_updated }}</time>)
-                            {% endif %}
-                        </p>
-                        <ul class="list-category list-linear">
-                            <li class="list-head">{{ site.data.i18n[site.lang].categories }}: </li>
-                            {% assign categories_list = page.categories | sort %} {% include helpers/categories_list %}
-                        </ul>
-                        <ul class="list-tag list-linear">
-                            <li class="list-head">{{ site.data.i18n[site.lang].tags }}: </li>
-                            {% assign tags_list = page.tags | sort %} {% include helpers/tags_list %}
-                        </ul>
-                    </div>
-                    <div itemprop="articleBody">
-                        {{ content }}
-                    </div>
-                </div>
-            </div>
-            <div class="">
-                <a href="https://lowcodecamp.net/">
-                    <img src="https://www.powerplatform.work/assets/ad/ad01.png" />
-                </a>
-            </div>
-            <footer class="unit-foot">
-                <div class="unit-inner unit-foot-inner">
-                    <div class="post-buttons">
-                        <a class="internal gotop" href="#page" title="{{ site.data.i18n[site.lang].back_to_top }}">{{ site.data.i18n[site.lang].back_to_top }}</a>
-                        {% if site.addthis_public_id %}
-                            {% include common/addthis.html %}
-                        {% endif %}
-                    </div>
-                    <nav class="pagination">
-                        {% if page.previous %}
-                            <a class="internal" rel="prev" href="{{ page.previous.url | relative_url }}" title="{{ site.data.i18n[site.lang].previous_post }} '{{ page.previous.title }}'"> ← {{ page.previous.title }}</a>
-                        {% endif %}
-                        {% if page.next %}
-                            <a class="internal" rel="next" href="{{ page.next.url | relative_url }}" title="{{ site.data.i18n[site.lang].next_post }} '{{ page.next.title }}'">{{ page.next.title }} → </a>
-                        {% endif %}
-                    </nav>
-                </div>
-            </footer>
-            <div class="misc-content">
-                {% if site.disqus.shortname and page.comments != false %}
-                    {% include common/disqus.html %}
-                    <div class="comments">
-                        <button class="center-block show-hidden" title="{{ site.data.i18n[site.lang].show_comments }}" data-disqus-url="{{ page.url | absolute_url }}">{{ site.data.i18n[site.lang].show_comments }}</button>
-                        <div id="disqus_thread"></div>
-                    </div>
+<!DOCTYPE html>
+<html lang="{{ site.language }}" class="no-js">
+    {% include head.html %}
+    <body class="has-push-menu">
+        {% include minutes-to-read.html %}
+        {% include svg-icons.html %}
+        {% include header.html %}
+
+        <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
+            <article role="article" class="post-content">
+                <p class="post-info">
+                    {% if page.date %}
+                        <svg class="icon-calendar" id="date"><use xlink:href="#icon-calendar"></use></svg>
+                        <time class="date" datetime="{{ page.date | date_to_xmlschema }}">
+                            {% include date.html date=page.date %}
+                        </time>
+                    {% endif %}
+                    <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
+                    <span>{{ minutesText }}</span>
+                </p>
+                <h1 class="post-title">{{ page.title }}</h1>
+                <p class="post-subtitle">{{ page.subtitle }}</p>
+
+                {% if page.image and paginator.activated == nil %}
+                    <img src="{{ page.image }}" alt="Featured image" class="post-cover">
                 {% endif %}
-            </div>
-        </div>
-    </div>
-</article>
+
+                {% include pagination-post.html progressBar=true %}
+
+                {% include toc.html %}
+
+                {{ content }}
+
+                {% include pagination-post.html %}
+            </article>
+
+            {% if site.two_columns_layout %}
+                <aside class="see-also">
+                    <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
+                    <ul>
+                        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
+                        {% assign shuffled_array = next_posts | shuffle %}
+                        {% for post in shuffled_array limit:3 %}
+                            <li>
+                                <a href="{{ post.url | prepend: site.baseurl }}">
+                                    {% if post.optimized_image %}
+                                        <img src="{{ post.optimized_image }}">
+                                    {% elsif post.image %}
+                                        <img src="{{ post.image }}">
+                                    {% else %}
+                                        <img src="/assets/img/off.jpg">
+                                    {% endif %}
+                                    <h3>{{ post.title }}</h3>
+                                </a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </aside>
+            {% endif %}
+
+        </section>
+
+        <!-- Add time bar only for pages without pagination -->
+        {% if paginator.activated == nil and site.show_time_bar == true %}
+            {% include time-bar.html %}
+            {% include recommendation.html %}
+        {% endif %}
+
+        <!-- Show modal if the post is the last one -->
+        {% if paginator.is_last and site.show_modal_on_finish_post %}
+            {% include modal.html title="You made it!" subtitle="Why don't you try another?" %}
+        {% endif %}
+
+        <!-- Show modal before user leaves the page -->
+        {% if site.show_modal_on_exit %}
+            {% include modal.html title="Don't go yet!" subtitle="You may also like..." closed=true showOnExit=true %}
+        {% endif %}
+
+        {% include subscription.html %}
+        {% include share.html %}
+        {% include author.html %}
+        {% include comments.html %}
+        {% include footer.html %}
+
+        {% assign author = site.authors | where: "name", post.author | first %}
+
+        {% assign author_urls = '' %}
+        {% if author.github_username %}
+            {% assign author_urls = author_urls | append: '"https://github.com/' | append: author.github_username | append: '",' %}
+        {% endif %}
+        {% if author.facebook_username %}
+            {% assign author_urls = author_urls | append: '"https://www.facebook.com/' | append: author.facebook_username | append: '",' %}
+        {% endif %}
+        {% if author.twitter_username %}
+            {% assign author_urls = author_urls | append: '"https://twitter.com/' | append: author.twitter_username | append: '",' %}
+        {% endif %}
+        {% if author.medium_username %}
+            {% assign author_urls = author_urls | append: '"https://medium.com/@' | append: author.medium_username | append: '",' %}
+        {% endif %}
+        {% if author.instagram_username %}
+            {% assign author_urls = author_urls | append: '"https://www.instagram.com/' | append: author.instagram_username | append: '",' %}
+        {% endif %}
+        {% if author.linkedin_username %}
+            {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
+        {% endif %}
+        {% if page.math %}
+        <script>
+            MathJax = {
+                tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']]
+                }
+            };
+        </script>
+        <script type="text/javascript" id="MathJax-script" async
+            src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+        </script>
+        {% endif %}
+        <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BlogPosting",
+            "name": "{{ page.title }}",
+            "headline": "{{ page.subtitle }}",
+            "description": "{{ page.description }}",
+            "image": "{{ page.image }}",
+            "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
+            "articleBody": "{{ content | strip_html | xml_escape | textilize }}",
+            "wordcount": "{{ content | number_of_words }}",
+            "inLanguage": "{{ site.language }}",
+            "dateCreated": "{{ page.date | date: '%Y-%m-%d/' }}",
+            "datePublished": "{{ page.date | date: '%Y-%m-%d/' }}",
+            "dateModified": "{{ page.date | date: '%Y-%m-%d/' }}",
+            "author": {
+                "@type": "Person",
+                "name": "{{ author.display_name }}",
+                {% if author.photo %}
+                "image": "{{ author.photo }}",
+                {% else %}
+                "image": {{ "/assets/img/user.jpg" | prepend: site.baseurl | prepend: site.url }},
+                {% endif %}
+                "jobTitle": "{{ author.position }}",
+                "url": "{{ author.url | prepend: site.baseurl | prepend: site.url }}",
+                "sameAs": [
+                    {{ author_urls | split: "," | join: "," }}
+                ]
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "{{ site.name }}",
+                "url": "{{ site.url }}{{site.baseurl}}/",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "{{ site.url }}{{site.baseurl}}/assets/img/blog-image.png",
+                    "width": "600",
+                    "height": "315"
+                }
+            },
+            "mainEntityOfPage": "True",
+            "genre": "{{ page.category }}",
+            "articleSection": "{{ page.category }}",
+            "keywords": [{{ page.tags | join: '","' | append: '"' | prepend: '"' }}]
+        }
+        </script>
+    </body>
+</html>
