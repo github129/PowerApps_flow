@@ -7,7 +7,7 @@ permalink: /about/
 description: Some description.
 ---
 
-<img class="img-rounded" src="/assets/my.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/my.jpg" alt="taku_ma_ru" width="200">
 
 
 # 当ブログについて
