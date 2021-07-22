@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/my.jpg
 name: taku_ma_ru
 display_name: taku_ma_ru
 position: Administrator
