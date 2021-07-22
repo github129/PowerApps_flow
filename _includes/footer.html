@@ -84,13 +84,6 @@
 <!-- Include the website scripts -->
 <script src="{{ '/assets/js/scripts.min.js' | prepend: site.baseurl }}"></script>
 
-<script>
-  console.log('v1');
-  var oldLink = location.href.toString();
-  var splitLink = onload.split('/');
-  var newLink = `${location.origin}/${splitLink[7]}`;
-  console.log(newLink);
-</script>
 
 <!-- Include Google Analytics script -->
 {% include stats.html %}
