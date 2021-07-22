@@ -16,6 +16,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - title: Tag
+    url: /tags
   - title: Feed
     url: /feed.xml
 email: bb9121@outlook.jp
