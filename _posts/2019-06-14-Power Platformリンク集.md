@@ -3,6 +3,10 @@ layout: post
 title: "Power Platformリンク集"
 description: "Power Platform に関するいろいろな情報を発信しているブログやHPです。"
 categories: [uncategorized]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [Power Platform, リンク集, Office 365, PowerApps, Power BI, Flow]
 redirect_from:
   - /2019/06/14/

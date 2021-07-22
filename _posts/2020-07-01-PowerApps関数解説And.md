@@ -4,6 +4,10 @@ title: "Power Apps And 関数の使い方と解説"
 description: "Power Apps の キャンバスアプリ の And 関数に関する解説です。この記事を読むことで And の使い方をマスターすることができます。
 And は && と同じく指定した値がすべて true の時に true を返します "
 categories: [PowerApps]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
 redirect_from:
   - /2020/07/01/

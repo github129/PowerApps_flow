@@ -4,6 +4,10 @@ title: "Power Apps でデータを追加する時はCollect関数とPatch関数�
 description: "Power Apps の キャンバスアプリでデータソースを追加する時に Patch と Collect がつかえますが、その２つの違いとどちらを使うべきかを紹介します。"
 categories: [PowerApps]
 tags: [Power Apps,キャンバスアプリ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2021/05/11/
 ---

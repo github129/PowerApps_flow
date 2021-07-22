@@ -3,6 +3,10 @@ layout: post
 title: "【PowerApps】デジタル数字を作ってみよう"
 description: "PowerApps（キャンバスアプリ）のコンポーネントに最近（2019年5月）追加された OnResetプロパティを使ってデジタル数字を作ってみる"
 categories: [PowerApps]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [PowerApps, コントロール, 関数,コンポーネント, キャンバスアプリ]
 redirect_from:
   - /2019/07/01/

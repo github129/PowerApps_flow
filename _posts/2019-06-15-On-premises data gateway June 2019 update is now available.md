@@ -4,6 +4,10 @@ title: "【Microsoft Flow公式ブログ】On-premises data gateway June 2019 up
 description: "Features released as part of the June Gateway release, including performance profiling based on the gateway CPU and HTTPS on by default. 
 "
 categories: [公式ブログ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [Flow,公式ブログ更新]
 redirect_from:
   - /2019/06/15/

@@ -3,6 +3,10 @@ layout: post
 title: "個人で無料で始める Power Apps 2020年最新版【8月】"
 description: "個人向けですが Power Apps を無料で始める方法は存在します。今回はそちらの解説を行います。あくまで個人での学習用の環境のため、決して企業内で本番環境として利用するなどはやめましょう。"
 categories: [PowerApps]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [Power Apps, ライセンス, 初心者向け, 解説]
 redirect_from:
   - /2020/08/04/

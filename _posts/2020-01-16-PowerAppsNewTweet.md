@@ -4,6 +4,10 @@ title: "Power Apps 最新 Tweet まとめ"
 description: "ハッシュタグ PowerApps が付いている最新のツイートのまとめ。Power Appsの最新情報はここから手に入れよう！"
 categories: [Tweet]
 tags: [PowerApps,Tweet]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2020/01/16/
 ---

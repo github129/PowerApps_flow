@@ -5,6 +5,10 @@ description: "Rules in canvas apps is a feature that let you record actions to b
 "
 categories: [公式ブログ]
 tags: [PowerApps,公式ブログ更新]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2019/10/15/
 ---

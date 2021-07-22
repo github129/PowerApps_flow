@@ -3,6 +3,10 @@ layout: post
 title: "【#PowerApps】テンプレートスクリーンの解説【人々】"
 description: "PowerApps に用意されているテンプレートスクリーンの「人々」の解説です。"
 categories: [PowerApps]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [PowerApps, 初心者向け, 解説, キャンバスアプリ]
 redirect_from:
   - /2019/06/15/

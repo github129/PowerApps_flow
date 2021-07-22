@@ -5,6 +5,10 @@ description: "There are several key improvements releasing this week. First, the
 "
 categories: [公式ブログ]
 tags: [Flow,公式ブログ更新]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2019/08/01/
 ---

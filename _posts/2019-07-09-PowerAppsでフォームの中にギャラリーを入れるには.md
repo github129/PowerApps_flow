@@ -3,6 +3,10 @@ layout: post
 title: "PowerApps フォームの中にギャラリーを入れるには"
 description: "PowerAppsのフォームコントロールには通常はいらないギャラリーを入れる方法です"
 categories: [PowerApps]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [PowerApps,キャンバスアプリ,小技]
 redirect_from:
   - /2019/07/09/

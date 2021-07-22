@@ -4,6 +4,10 @@ title: "【#PowerApps】ComboBoxが選択されていないときにページ遷
 description: "コンボボックス(ComboBox)でアイテムが選択されていないときにエラー通知やページ遷移をさせない方法"
 categories: [PowerApps]
 tags: [PowerApps, コントロール, 関数]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2019/06/16/
 ---

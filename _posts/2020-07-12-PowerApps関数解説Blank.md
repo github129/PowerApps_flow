@@ -4,6 +4,10 @@ title: "Power Apps Blank 関数の使い方と解説"
 description: "Power Apps の キャンバスアプリ の Blank に関する解説です。この記事を読むことで　Blank の使い方をマスターすることができます。Blank は空白を利用する場合に使用される関数です"
 categories: [PowerApps]
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2020/07/12/
 ---

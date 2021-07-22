@@ -3,6 +3,10 @@ layout: post
 title: "Power Apps AddColumns 関数の使い方と解説"
 description: "Power Apps の キャンバスアプリ の AddColumns 関数に関する解説です。この記事を読むことで AddColumns の使い方をマスターすることができます。AddColumns は コレクションに対して新しいカラム（列）を追加することができます。 "
 categories: [PowerApps]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
 redirect_from:
   - /2020/06/30/

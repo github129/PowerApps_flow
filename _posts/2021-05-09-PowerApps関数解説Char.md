@@ -4,6 +4,10 @@ title: "Power Apps Char 関数の使い方と解説"
 description: "Power Apps の キャンバスアプリ の Char に関する解説です。この記事を読むことで　Char の使い方をマスターすることができます。Char とは文字コードを文字列に変換するときに用います"
 categories: [PowerApps]
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2021/05/10/
 ---

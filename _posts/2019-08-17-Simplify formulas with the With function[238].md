@@ -5,6 +5,10 @@ description: "Welcome the With function to Canvas apps!  You can now simplify l
 "
 categories: [公式ブログ]
 tags: [PowerApps,公式ブログ更新]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2019/08/17/
 ---

@@ -4,6 +4,10 @@ title: "Power Apps Color 関数の使い方と解説"
 description: "Power Apps の キャンバスアプリ の Color に関する解説です。この記事を読むことで　Color の使い方をマスターすることができます。Color 関数は空白か空文字の評価とそれによって動きを変化したい場合に使います。"
 categories: [PowerApps]
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2021/05/16/
 ---

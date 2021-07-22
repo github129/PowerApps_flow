@@ -5,6 +5,10 @@ description: "A number of customers have automated build and release pipelines a
 "
 categories: [公式ブログ]
 tags: [PowerApps,公式ブログ更新]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2019/06/27/
 ---

@@ -4,6 +4,10 @@ title: "Power Apps ColorFade 関数の使い方と解説"
 description: "Power Apps の キャンバスアプリ の ColorFade に関する解説です。この記事を読むことで　ColorFade の使い方をマスターすることができます。ColorFade 関数色の明暗を変えたいときに使います。"
 categories: [PowerApps]
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2021/05/17/
 ---

@@ -3,6 +3,10 @@ layout: post
 title: "Power Apps Acceleration シグナルの使い方と解説"
 description: "Power Apps の キャンバスアプリ の Acceleration プロパティに関する解説です。この記事を読むことで Acceleration の使い方をマスターすることができます。Acceleration は デバイスの画面に対して相対的な 3 次元におけるデバイスの加速度を返します "
 categories: [PowerApps]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
 redirect_from:
   - /2020/06/29/

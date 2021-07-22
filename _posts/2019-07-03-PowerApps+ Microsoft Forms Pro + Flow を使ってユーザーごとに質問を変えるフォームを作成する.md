@@ -3,6 +3,10 @@ layout: post
 title: "PowerApps+ Microsoft Forms Pro + Flow を使ってユーザーごとに質問を変えるフォームを作成する"
 description: "2019年7月にGAされた Forms Pro と PowerApps + Flow を使ってユーザーごとにフォームの質問内容を変えてみる"
 categories: [PowerApps,Flow,FormsPro]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [PowerApps,キャンバスアプリ,Flow,Microsoft Forms Pro]
 redirect_from:
   - /2019/07/03/

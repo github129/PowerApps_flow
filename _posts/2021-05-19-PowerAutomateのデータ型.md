@@ -4,6 +4,10 @@ title: "Power Automate のアレイとは？ Power Automate のデータの型�
 description: "Power Automate のデータの型についての記事になります。データの型を覚えることでスムーズなフローの作成が可能になります。"
 categories: [PowerAutomate]
 tags: [Power Automate,初心者向け]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2021/05/19/
 ---

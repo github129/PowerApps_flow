@@ -4,6 +4,10 @@ title: "Power Apps Collect 関数の使い方と解説"
 description: "Power Apps の キャンバスアプリ の Collect に関する解説です。この記事を読むことで　Collect の使い方をマスターすることができます。Collect とはコレクションを作成または、コレクションやデータソースにデータを追加するときに使います。"
 categories: [PowerApps]
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2021/05/10/
 ---

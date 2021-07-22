@@ -4,6 +4,10 @@ title: "Power Apps Clock 関数の使い方と解説"
 description: "Power Apps の キャンバスアプリ の Clock に関する解説です。この記事を読むことで　Clock の使い方をマスターすることができます。lock 関数は、現在のロケールに関する情報を取得する時に使います。"
 categories: [PowerApps]
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2021/05/10/
 ---

@@ -3,6 +3,10 @@ layout: post
 title: "Power Apps Average 関数の使い方と解説"
 description: "Power Apps の キャンバスアプリ の Average に関する解説です。この記事を読むことで　Average の使い方をマスターすることができます。Average は値の平均を求めるときに利用します。"
 categories: [PowerApps]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
 redirect_from:
   - /2020/07/07/

@@ -5,6 +5,10 @@ description: "In this example, we show how to leverage Azure Services, in this s
 "
 categories: [公式ブログ]
 tags: [PowerApps,公式ブログ更新]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2019/09/28/
 ---

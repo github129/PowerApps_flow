@@ -5,6 +5,10 @@ description: "For June on the PowerApps community call Ted Pattison and Todd Ba
 https://powerusers.microsoft.com/t5/Video-Gallery/PowerApps-Community-Call-June-19th-Best-Practices-Webinar-with/m-p/301268 
 "
 categories: [公式ブログ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [PowerApps,公式ブログ更新]
 redirect_from:
   - /2019/06/17/

@@ -4,6 +4,10 @@ title: "Power Apps を選ぶべき理由 5選"
 description: "公式ブログの翻訳になります"
 categories: [PowerPlatform]
 tags: [Power Apps,Dataverse, Power Platform, 公式ブログ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2021/05/14/
 ---

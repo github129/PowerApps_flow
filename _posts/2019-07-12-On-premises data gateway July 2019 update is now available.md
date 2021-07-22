@@ -4,6 +4,10 @@ title: "【PowerApps公式ブログ】On-premises data gateway July 2019 update 
 description: "Features released as part of the July Gateway release. 
 "
 categories: [公式ブログ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [PowerApps,公式ブログ更新]
 redirect_from:
   - /2019/07/12/

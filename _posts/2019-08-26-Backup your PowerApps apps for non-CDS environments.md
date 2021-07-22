@@ -5,6 +5,10 @@ description: "Looking for a way to automate backing up your PowerApps for non CD
 "
 categories: [公式ブログ]
 tags: [PowerApps,公式ブログ更新]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2019/08/26/
 ---

@@ -4,6 +4,10 @@ title: "Power Automate で文字をくっつける（連結する）時に使う
 description: "Power Automate  の concat に関する解説です。この記事を読むことで　concat の使い方をマスターすることができます。concat 関数は２つ以上のテキストを連結する時に使います"
 categories: [PowerAutomate]
 tags: [Power Automate,初心者向け,関数解説]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2021/05/20/
 ---

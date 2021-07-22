@@ -4,6 +4,10 @@ title: "【Power BI 公式ブログ】Power BI Service and Mobile June 2019 feat
 description: "June was yet another exciting month for Power BI! Read on for a summary of the announcements we made in both the service and mobile.
 "
 categories: [公式ブログ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [Power BI,公式ブログ更新]
 redirect_from:
   - /2019/07/15/

@@ -4,6 +4,10 @@ title: "Power Apps Calendar 関数の使い方と解説"
 description: "Power Apps の キャンバスアプリ の Calendar に関する解説です。この記事を読むことで　Calendar の使い方をマスターすることができます。Calendar はその月や日に関する値を取得するときに利用します。"
 categories: [PowerApps]
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2020/07/13/
 ---

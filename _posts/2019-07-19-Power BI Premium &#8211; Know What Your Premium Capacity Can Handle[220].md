@@ -4,6 +4,10 @@ title: "【Power BI 公式ブログ】Power BI Premium &#8211; Know What Your Pr
 description: "プレミアム容量の正確な負荷テストのためのツールを紹介する
 "
 categories: [公式ブログ]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 tags: [Power BI,公式ブログ更新]
 redirect_from:
   - /2019/07/19/

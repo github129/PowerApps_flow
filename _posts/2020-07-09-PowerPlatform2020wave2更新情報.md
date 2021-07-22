@@ -4,6 +4,10 @@ title: "Power Platform の 2020 wave2 の更新情報　Power Apps 編"
 description: "Power Platform の 2020 wave2 の更新情報 の日本語翻訳となります。"
 categories: [Dynamics365]
 tags: [Power Platform,最新アップデート情報]
+image: >-
+  https://www.powerplatform.work/assets/noimage.png
+optimized_image: >-
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2020/07/09/
 ---
