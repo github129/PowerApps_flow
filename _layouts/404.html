@@ -17,8 +17,8 @@ layout: default
   <p>{{ site.translations.error_404.message | default: "I'm sorry. We couldn't find the page you are looking for." }}</p>
 </div>
 <script>
-  const oldLink = location.href.toString()
-  const splitLink = onload.split('/')
-  const newLink = `${location.origin}/${splitLink[7]}`
+  var oldLink = location.href.toString()
+  var splitLink = onload.split('/')
+  var newLink = `${location.origin}/${splitLink[7]}`
   console.log(newLink)
 </script>
