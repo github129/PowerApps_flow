@@ -5,9 +5,9 @@ description: "Power Apps の キャンバスアプリでデータソースを追
 categories: [PowerApps]
 tags: [Power Apps,キャンバスアプリ]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2021/2021-05-10-07-54-27.png
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2021/2021-05-10-07-54-27.png
 redirect_from:
   - /2021/05/11/
 ---
@@ -44,14 +44,14 @@ Collect(SampleDB,{Name:GUID()});
 ２度実行したので、４件登録されていますが、データソース上に違いはありません。
 
 <a class="post-image" href="/assets/blogpost/2021/2021-05-10-07-54-27.png">
-<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-07-54-27.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-07-54-27.png" src="/assets/blogpost/2021/2021-05-10-07-54-27.png" alt="選択肢" />
 </a>
 
 では通信はどのようになっているでしょうか？
 もう一度実行してみましょう。
 
 <a class="post-image" href="/assets/blogpost/2021/2021-05-10-07-57-05.png">
-<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-07-57-05.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-07-57-05.png" src="/assets/blogpost/2021/2021-05-10-07-57-05.png" alt="選択肢" />
 </a>
 
 ID2 が Patch 関数で ID6 が Collect 関数によるデータ追加です。
@@ -264,10 +264,10 @@ ForAll(sCol, Patch(SampleDB, Defaults(SampleDB), {Name:Name, sample:sample}));
 通信のみで 16.822 秒 です。
 
 <a class="post-image" href="/assets/blogpost/2021/2021-05-10-08-39-12.png">
-<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-08-39-12.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-08-39-12.png" src="/assets/blogpost/2021/2021-05-10-08-39-12.png" alt="選択肢" />
 </a>
 <a class="post-image" href="/assets/blogpost/2021/2021-05-10-08-39-23.png">
-<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-08-39-23.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-08-39-23.png" src="/assets/blogpost/2021/2021-05-10-08-39-23.png" alt="選択肢" />
 </a>
 
 次に Collect 関数
@@ -286,10 +286,10 @@ getRows から計算すると 約 1.34 秒で完了
 
 
 <a class="post-image" href="/assets/blogpost/2021/2021-05-10-08-27-36.png">
-<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-08-27-36.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-08-27-36.png" src="/assets/blogpost/2021/2021-05-10-08-27-36.png" alt="選択肢" />
 </a>
 <a class="post-image" href="/assets/blogpost/2021/2021-05-10-08-26-34.png">
-<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-08-26-34.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+<img itemprop="image" data-src="/assets/blogpost/2021/2021-05-10-08-26-34.png" src="/assets/blogpost/2021/2021-05-10-08-26-34.png" alt="選択肢" />
 </a>
 
 

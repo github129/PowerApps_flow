@@ -4,9 +4,9 @@ title: "PowerApps+ Microsoft Forms Pro + Flow を使ってユーザーごとに�
 description: "2019年7月にGAされた Forms Pro と PowerApps + Flow を使ってユーザーごとにフォームの質問内容を変えてみる"
 categories: [PowerApps,Flow,FormsPro]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2019/2019-07-03-004.PNG
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2019/2019-07-03-004.PNG
 tags: [PowerApps,キャンバスアプリ,Flow,Microsoft Forms Pro]
 redirect_from:
   - /2019/07/03/
@@ -35,11 +35,11 @@ GAされたばかり Forms Pro と PowerApps + Flow を使ってユーザーご�
 を作成します。
 
 <a class="post-image" href="/assets/blogpost/2019/2019-07-03-006.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-006.PNG" src="/assets/javascripts/unveil/loader.gif" alt="個人設定1" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-006.PNG" src="/assets/blogpost/2019/2019-07-03-006.PNG" alt="個人設定1" />
 </a>
 <br/>
 <a class="post-image" href="/assets/blogpost/2019/2019-07-03-007.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-007.PNG" src="/assets/javascripts/unveil/loader.gif" alt="個人設定2" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-007.PNG" src="/assets/blogpost/2019/2019-07-03-007.PNG" alt="個人設定2" />
 </a>
 
 
@@ -50,7 +50,7 @@ GAされたばかり Forms Pro と PowerApps + Flow を使ってユーザーご�
 PowerApps をトリガーにして Forms Pro コネクタの Send a survey アクションを指定します。
 
 <a class="post-image" href="/assets/blogpost/2019/2019-07-03-001.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-001.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Flow" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-001.PNG" src="/assets/blogpost/2019/2019-07-03-001.PNG" alt="Flow" />
 </a>
 
 
@@ -60,7 +60,7 @@ PowerApps をトリガーにして Forms Pro コネクタの Send a survey ア�
 
 
 <a class="post-image" href="/assets/blogpost/2019/2019-07-03-002.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-002.PNG" src="/assets/javascripts/unveil/loader.gif" alt="PowerApps" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-002.PNG" src="/assets/blogpost/2019/2019-07-03-002.PNG" alt="PowerApps" />
 </a>
 
 宛先相手にはメールアドレスが指定できます。
@@ -71,9 +71,9 @@ PowerApps をトリガーにして Forms Pro コネクタの Send a survey ア�
 
 
 <a class="post-image" href="/assets/blogpost/2019/2019-07-03-003.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-003.PNG" src="/assets/javascripts/unveil/loader.gif" alt="FormsPro1" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-003.PNG" src="/assets/blogpost/2019/2019-07-03-003.PNG" alt="FormsPro1" />
 </a>
 <br/>
 <a class="post-image" href="/assets/blogpost/2019/2019-07-03-004.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-004.PNG" src="/assets/javascripts/unveil/loader.gif" alt="FormsPro2" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-03-004.PNG" src="/assets/blogpost/2019/2019-07-03-004.PNG" alt="FormsPro2" />
 </a>

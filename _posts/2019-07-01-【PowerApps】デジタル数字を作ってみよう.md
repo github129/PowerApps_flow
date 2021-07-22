@@ -4,9 +4,9 @@ title: "【PowerApps】デジタル数字を作ってみよう"
 description: "PowerApps（キャンバスアプリ）のコンポーネントに最近（2019年5月）追加された OnResetプロパティを使ってデジタル数字を作ってみる"
 categories: [PowerApps]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2019/20190701003.PNG
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2019/20190701003.PNG
 tags: [PowerApps, コントロール, 関数,コンポーネント, キャンバスアプリ]
 redirect_from:
   - /2019/07/01/
@@ -28,7 +28,7 @@ PowerApps（キャンバスアプリ）のコンポーネントに最近（2019�
 
 
 <a class="post-image" href="/assets/blogpost/2019/20190701001.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/20190701001.PNG" src="/assets/javascripts/unveil/loader.gif" alt="コンポーネント設定" />
+<img itemprop="image" data-src="/assets/blogpost/2019/20190701001.PNG" src="/assets/blogpost/2019/20190701001.PNG" alt="コンポーネント設定" />
 </a>
 
 
@@ -45,7 +45,7 @@ Reset(Component1);
 今回はコンポーネントを使ってデジタル時計を作っていきます。
 
 <a class="post-image" href="/assets/blogpost/2019/20190701002.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/20190701002.PNG" src="/assets/javascripts/unveil/loader.gif" alt="完成品" />
+<img itemprop="image" data-src="/assets/blogpost/2019/20190701002.PNG" src="/assets/blogpost/2019/20190701002.PNG" alt="完成品" />
 </a>
 
 ## カスタムプロパティの設定
@@ -65,7 +65,7 @@ Reset(Component1);
 また、もう少し細かく設定できるほうが汎用性も上がりますが、今回の内容の主旨ではないため省略します。
 
 <a class="post-image" href="/assets/blogpost/2019/20190701003.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/20190701003.PNG" src="/assets/javascripts/unveil/loader.gif" alt="カスタムプロパティ" />
+<img itemprop="image" data-src="/assets/blogpost/2019/20190701003.PNG" src="/assets/blogpost/2019/20190701003.PNG" alt="カスタムプロパティ" />
 </a>
 
 ## コンポーネントの設定
@@ -105,7 +105,7 @@ Switch(
 最終的にこうなります。
 
 <a class="post-image" href="/assets/blogpost/2019/20190701003.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/20190701003.PNG" src="/assets/javascripts/unveil/loader.gif" alt="コンポーネント全体像" />
+<img itemprop="image" data-src="/assets/blogpost/2019/20190701003.PNG" src="/assets/blogpost/2019/20190701003.PNG" alt="コンポーネント全体像" />
 </a>
 
 ## スクリーンの設定

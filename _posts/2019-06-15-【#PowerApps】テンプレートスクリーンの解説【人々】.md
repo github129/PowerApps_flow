@@ -4,9 +4,9 @@ title: "【#PowerApps】テンプレートスクリーンの解説【人々】"
 description: "PowerApps に用意されているテンプレートスクリーンの「人々」の解説です。"
 categories: [PowerApps]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2019/2019-06-15_01.PNG
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2019/2019-06-15_01.PNG
 tags: [PowerApps, 初心者向け, 解説, キャンバスアプリ]
 redirect_from:
   - /2019/06/15/
@@ -23,7 +23,7 @@ PowerApps のキャンバスアプリのテンプレートスクリーンの1つ
 ビュー→データソースから確認できますが、 「Office365ユーザー」というコネクタを利用して検索を行っています。
 
 <a class="post-image" href="/assets/blogpost/2019/2019-06-15_01.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-15_01.PNG" src="/assets/javascripts/unveil/loader.gif" alt="ビュー→データソース" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-15_01.PNG" src="/assets/blogpost/2019/2019-06-15_01.PNG" alt="ビュー→データソース" />
 </a>
 
 # 各機能の解説

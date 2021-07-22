@@ -5,9 +5,9 @@ description: "Microsoft Flow を企業や Office365 がないと利用できな�
 categories: [Flow]
 tags: [Flow, 初心者向け, 解説]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2019/2019-06-23-01.PNG
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2019/2019-06-23-01.PNG
 redirect_from:
   - /2019/06/23/
 ---
@@ -67,15 +67,15 @@ Microsoft Flow は制限はありますが、個人アカウント（Microsoft�
 作成する場合は[こちらから](https://account.microsoft.com/account)
 
 <a class="post-image" href="/assets/blogpost/2019/2019-06-23-01.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-01.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Microsoft アカウント作成01" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-01.PNG" src="/assets/blogpost/2019/2019-06-23-01.PNG" alt="Microsoft アカウント作成01" />
 </a>
 <br>
 <a class="post-image" href="/assets/blogpost/2019/2019-06-23-02.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-02.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Microsoft アカウント作成02" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-02.PNG" src="/assets/blogpost/2019/2019-06-23-02.PNG" alt="Microsoft アカウント作成02" />
 </a>
 <br>
 <a class="post-image" href="/assets/blogpost/2019/2019-06-23-03.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-03.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Microsoft アカウント作成03" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-03.PNG" src="/assets/blogpost/2019/2019-06-23-03.PNG" alt="Microsoft アカウント作成03" />
 </a>
 
 ## Microsoft アカウントをお持ちの方
@@ -85,14 +85,14 @@ Microsoft アカウントすでに持っている又は作成後は Microsoft Fl
 [https://japan.flow.microsoft.com/ja-jp/](https://japan.flow.microsoft.com/ja-jp/)
 
 <a class="post-image" href="/assets/blogpost/2019/2019-06-23-04.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-04.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Microsoft Flow ログイン01" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-04.PNG" src="/assets/blogpost/2019/2019-06-23-04.PNG" alt="Microsoft Flow ログイン01" />
 </a>
 <br>
 
 任意の国を選択し「開始」を選択します。
 
 <a class="post-image" href="/assets/blogpost/2019/2019-06-23-05.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-05.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Microsoft Flow ログイン02" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-05.PNG" src="/assets/blogpost/2019/2019-06-23-05.PNG" alt="Microsoft Flow ログイン02" />
 </a>
 
 以上で個人で Microsoft Flowを始めるスタート地点には立ちました。
@@ -131,9 +131,9 @@ Microsoft Flowには実行頻度という考え方があります。
 
 
 <a class="post-image" href="/assets/blogpost/2019/2019-06-23-06.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-06.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Microsoft Flow プラン01" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-06.PNG" src="/assets/blogpost/2019/2019-06-23-06.PNG" alt="Microsoft Flow プラン01" />
 </a>
 <br>
 <a class="post-image" href="/assets/blogpost/2019/2019-06-23-07.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-07.PNG" src="/assets/javascripts/unveil/loader.gif" alt="Microsoft Flow プラン02" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-06-23-07.PNG" src="/assets/blogpost/2019/2019-06-23-07.PNG" alt="Microsoft Flow プラン02" />
 </a>

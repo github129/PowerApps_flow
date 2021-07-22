@@ -5,9 +5,9 @@ description: "Power Apps の キャンバスアプリ の Choices に関する�
 categories: [PowerApps]
 tags: [Power Apps,初心者向け,関数解説,キャンバスアプリ]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2021/0509status2.png
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2021/0509status2.png
 redirect_from:
   - /2021/05/10/
 ---
@@ -56,13 +56,13 @@ Choices(データソース.status)
 
 例えば以下のようなデータソース（選択肢）を用意します。(この画面は Dataverse for Teams の選択肢の画像です)
 <a class="post-image" href="/assets/blogpost/2021/0509status.png">
-<img itemprop="image" data-src="/assets/blogpost/2021/0509status.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+<img itemprop="image" data-src="/assets/blogpost/2021/0509status.png" src="/assets/blogpost/2021/0509status.png" alt="選択肢" />
 </a>
 
 これを先ほどの書き方で書くと以下のように取得することができます。
 
 <a class="post-image" href="/assets/blogpost/2021/0509status2.png">
-<img itemprop="image" data-src="/assets/blogpost/2021/0509status2.png" src="/assets/javascripts/unveil/loader.gif" alt="選択肢" />
+<img itemprop="image" data-src="/assets/blogpost/2021/0509status2.png" src="/assets/blogpost/2021/0509status2.png" alt="選択肢" />
 </a>
 
 このように選択肢の項目を取得することができます。

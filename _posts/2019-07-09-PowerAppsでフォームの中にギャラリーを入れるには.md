@@ -4,9 +4,9 @@ title: "PowerApps フォームの中にギャラリーを入れるには"
 description: "PowerAppsのフォームコントロールには通常はいらないギャラリーを入れる方法です"
 categories: [PowerApps]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2019/2019-07-09-002.png
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2019/2019-07-09-002.png
 tags: [PowerApps,キャンバスアプリ,小技]
 redirect_from:
   - /2019/07/09/
@@ -36,7 +36,7 @@ redirect_from:
 4. 配置したいデータカードを選択して貼り付け
 
 <a class="post-image" href="/assets/blogpost/2019/2019-07-09-002.png">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-09-002.png" src="/assets/javascripts/unveil/loader.gif" alt="フォームinギャラリー" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-09-002.png" src="/assets/blogpost/2019/2019-07-09-002.png" alt="フォームinギャラリー" />
 </a>
 
 
@@ -56,7 +56,7 @@ redirect_from:
 3. 配置したいデータカードを選択して貼り付け
 
 <a class="post-image" href="/assets/blogpost/2019/2019-07-09-001.PNG">
-<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-09-001.PNG" src="/assets/javascripts/unveil/loader.gif" alt="スクロールスクリーンinギャラリー" />
+<img itemprop="image" data-src="/assets/blogpost/2019/2019-07-09-001.PNG" src="/assets/blogpost/2019/2019-07-09-001.PNG" alt="スクロールスクリーンinギャラリー" />
 </a>
 
 
