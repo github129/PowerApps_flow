@@ -17,12 +17,3 @@ layout: default
   <p>{{ site.translations.error_404.message | default: "I'm sorry. We couldn't find the page you are looking for." }}</p>
   <p>v2</p>
 </div>
-
-<script>
-  console.log('v2');
-  var oldLink = location.href.toString();
-  var splitLink = oldLink.split('/');
-  console.log(splitLink.length)
-  var newLink = `${location.origin}/${splitLink[7]}`;
-  console.log(newLink);
-</script>
