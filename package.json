@@ -1,12 +1,12 @@
 {
-  "name": "jekflix-template",
+  "name": "powerplatformwork",
   "version": "3.1.1",
-  "description": "A Jekyll theme inspired by Netflix",
+  "description": "Power Platform sample and news",
   "main": "gulpfile.js",
-  "homepage": "https://github.com/thiagorossener/jekflix-template.git#readme",
+  "homepage": "https://www.powerplatform.work/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thiagorossener/jekflix-template.git"
+    "url": "https://github.com/github129/PowerApps_flow.git"
   },
   "keywords": [
     "jekyll",
@@ -15,10 +15,10 @@
     "blog",
     "netlify"
   ],
-  "author": "Thiago Rossener",
+  "author": "taku_ma_ru",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thiagorossener/jekflix-template/issues"
+    "url": "https://github.com/github129/PowerApps_flow/issues"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",

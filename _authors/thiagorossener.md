@@ -1,15 +1,12 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
-position: Chief Editor
-bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+name: taku_ma_ru
+display_name: taku_ma_ru
+position: Administrator
+bio: Power Platform consultant and .NET developer
+github_username: github129
+facebook_username: takumaru1219
+twitter_username: taku_ma_ru
 ---
 
