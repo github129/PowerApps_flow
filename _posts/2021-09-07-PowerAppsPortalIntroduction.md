@@ -38,6 +38,6 @@ Dataverse に保存された情報を外部へ発信したり、一般向けペ�
 記事が更新され次第追加されます。
 
 - [アーキテクチャ](https://www.powerplatform.work/PowerAppsPortals_Architecture/)
-- ライフサイクル
+- [ライフサイクル(https://www.powerplatform.work/PowerAppsPortals_LifeCycle/)
 - 
 
