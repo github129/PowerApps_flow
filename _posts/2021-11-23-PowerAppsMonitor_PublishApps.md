@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Power Apps のモニター機能を使って効率よくアプリをデバックする方法➀"
+title: "公開されたアプリをデバックできる機能 モニターを使ってキャンバスアプリをデバックしよう"
 description: ""
 categories: [Power Apps, モニター]
 tags: [Power Apps, Power Apps Portals]
