@@ -5,9 +5,9 @@ description: ""
 categories: [Power Apps, 初心者向け]
 tags: [Power Apps, 変数]
 image: >-
-  https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/183354/9fb0516f-e8c7-dc74-137c-ef664ee65f1e.png
+  https://www.powerplatform.work/assets/noimage.png
 optimized_image: >-
-  https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/183354/9fb0516f-e8c7-dc74-137c-ef664ee65f1e.png
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2021/12/13/
 paginate: true
