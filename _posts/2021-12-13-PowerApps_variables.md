@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Power Apps にローカル変数は存在しません"
-description: ""
+description: "Power Apps にローカル変数しないって知っていましたか？正しい用語を使いましょう"
 categories: [Power Apps, 初心者向け]
 tags: [Power Apps, 変数]
 image: >-
