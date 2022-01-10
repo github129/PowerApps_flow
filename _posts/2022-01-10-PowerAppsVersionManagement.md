@@ -5,9 +5,9 @@ description: "Power Apps では GitHub リポジトリと連携することで�
 categories: [PowerApps]
 tags: [PowerApps,GitHub]
 image: >-
-  https://www.powerplatform.work/assets/blogpost/2022/2021-01-10-01.png
+  https://www.powerplatform.work/assets/blogpost/2022/2022-01-10-01.png
 optimized_image: >-
-  https://www.powerplatform.work/assets/blogpost/2022/2021-01-10-01.png
+  https://www.powerplatform.work/assets/blogpost/2022/2022-01-10-01.png
 redirect_from:
   - /2022/01/10/
 ---
