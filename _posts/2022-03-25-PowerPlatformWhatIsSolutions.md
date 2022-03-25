@@ -25,3 +25,11 @@ redirect_from:
 [ソリューションの階層](https://docs.microsoft.com/ja-jp/power-platform/alm/solution-layers-alm)
 
 [依存関係の削除](https://docs.microsoft.com/ja-jp/power-platform/alm/removing-dependencies)
+
+
+# ALMリンク
+
+- [Power Platform で Azure DevOps を使った ALM を実現する](https://www.powerplatform.work/PowerPlatformAzureDevOpsALM01/)
+- [Power Platform で Azure DevOps を使った ALM を実現する 準備編 Azure AD](https://www.powerplatform.work/PowerPlatformAzureDevOpsALM02AzureAD/) 
+- [Power Platform で Azure DevOps を使った ALM を実現する 準備編 Azure DevOps](https://www.powerplatform.work/PowerPlatformAzureDevOpsALM03DevOps/)
+- [Power Platform で Azure DevOps を使った ALM を実現する 準備編 Azure DevOps パイプライン](https://www.powerplatform.work/PowerPlatformAzureDevOpsALM03DevOpsWhoAmI/)

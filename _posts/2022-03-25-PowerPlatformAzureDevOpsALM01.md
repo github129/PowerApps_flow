@@ -37,7 +37,7 @@ ALM を理解するにはソリューションの概念を理解することが�
 
 ソリューションに関してはこちらの記事をご覧ください。
 
-[ソリューションの概要](https://docs.microsoft.com/ja-jp/power-platform/alm/solution-concepts-alm)
+[ソリューションの概要](https://www.powerplatform.work/PowerPlatformWhatIsSolutions/)
 
 # ALM を実現するために必要なもの
 
@@ -54,7 +54,10 @@ ALM を理解するにはソリューションの概念を理解することが�
 
 # 各リンク
 
-
+- [Power Platform で Azure DevOps を使った ALM を実現する](https://www.powerplatform.work/PowerPlatformAzureDevOpsALM01/)
+- [Power Platform で Azure DevOps を使った ALM を実現する 準備編 Azure AD](https://www.powerplatform.work/PowerPlatformAzureDevOpsALM02AzureAD/) 
+- [Power Platform で Azure DevOps を使った ALM を実現する 準備編 Azure DevOps](https://www.powerplatform.work/PowerPlatformAzureDevOpsALM03DevOps/)
+- [Power Platform で Azure DevOps を使った ALM を実現する 準備編 Azure DevOps パイプライン](https://www.powerplatform.work/PowerPlatformAzureDevOpsALM03DevOpsWhoAmI/)
 
 
 # リンク

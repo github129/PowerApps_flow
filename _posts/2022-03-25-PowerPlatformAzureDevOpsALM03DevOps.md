@@ -83,6 +83,13 @@ Project Settings → Service connections → New service connection の順に進
 
 
 
+# 各リンク
+
+- [Power Platform で Azure DevOps を使った ALM を実現する](https://www.powerplatform.work/PowerPlatformAzureDevOpsALM01/)
+- [Power Platform で Azure DevOps を使った ALM を実現する 準備編 Azure AD](https://www.powerplatform.work/PowerPlatformAzureDevOpsALM02AzureAD/) 
+- [Power Platform で Azure DevOps を使った ALM を実現する 準備編 Azure DevOps](https://www.powerplatform.work/PowerPlatformAzureDevOpsALM03DevOps/)
+- [Power Platform で Azure DevOps を使った ALM を実現する 準備編 Azure DevOps パイプライン](https://www.powerplatform.work/PowerPlatformAzureDevOpsALM03DevOpsWhoAmI/)
+
 # リンク
 
 
