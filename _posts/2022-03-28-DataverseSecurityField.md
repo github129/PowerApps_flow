@@ -2,8 +2,8 @@
 layout: post
 title: "Dataverse の列のセキュリティを設定する"
 description: "Dataverse の列のセキュリティを設定する方法を学べます。この機能は列ごとに権限を付与したい場合に有効にする必要があります"
-categories: [PowerPlatform]
-tags: [PowerPlatform]
+categories: [Dataverse]
+tags: [Dataverse]
 image: >-
   https://www.powerplatform.work/assets/blogpost/2022/032801.png
 optimized_image: >-
