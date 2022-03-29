@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Power Platform 関連の最新のアイコン"
-description: "Power Platform の最新のアイコンは公式から提供されています"
+title: "Power Automate の 進む 戻る機能が日本環境でも使えるようになりました"
+description: "Power Automate の 元に戻す（戻る） やり直し（進む）機能が日本環境でも使えるようになりました"
 categories: [PowerAutomate]
 tags: [PowerAutomate]
 image: >-
