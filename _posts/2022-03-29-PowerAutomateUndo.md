@@ -5,9 +5,9 @@ description: "Power Automate の 元に戻す（戻る） やり直し（進む�
 categories: [PowerAutomate]
 tags: [PowerAutomate]
 image: >-
-  https://www.powerplatform.work/assets/blogpost/2022/032901.png
+  https://www.powerplatform.work/assets/blogpost/2022/032902.png
 optimized_image: >-
-  https://www.powerplatform.work/assets/blogpost/2022/032901.png
+  https://www.powerplatform.work/assets/blogpost/2022/032902.png
 redirect_from:
   - /2022/03/29/
 ---
