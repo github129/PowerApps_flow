@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Power Platform CoE スターターキット CenterofExcellenceCoreComponents について"
+title: "Power Platform CoE スターターキット Center of Excellence CoreComponents について"
 description: "執筆中"
 categories: [PowerPlatform]
 tags: [PowerPlatform]

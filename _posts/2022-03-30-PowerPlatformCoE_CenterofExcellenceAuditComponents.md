@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Power Platform CoE スターターキット CenterofExcellenceAuditComponents について"
+title: "Power Platform CoE スターターキット Center of Excellence Audit Components について"
 description: "執筆中"
 categories: [PowerPlatform]
 tags: [PowerPlatform]

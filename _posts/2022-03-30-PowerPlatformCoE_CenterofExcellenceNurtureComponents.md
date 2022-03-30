@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Power Platform CoE スターターキット CenterofExcellenceNurtureComponents について"
+title: "Power Platform CoE スターターキット Center of Excellence Nurture Components について"
 description: "Power Platform の作成者や内部コミュニティを育成するためのトレーニングなどを管理するためのソリューションです"
 categories: [PowerPlatform]
 tags: [PowerPlatform]

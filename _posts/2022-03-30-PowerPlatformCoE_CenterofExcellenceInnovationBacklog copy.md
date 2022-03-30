@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Power Platform CoE スターターキット CenterofExcellenceInnovationBacklog について"
+title: "Power Platform CoE スターターキット Center of Excellence Innovation Backlog について"
 description: "構築が必要なアプリとフローのアイデアを提出するようユーザーに依頼し、現在のプロセスの問題点を洗い出すためのソリューションです"
 categories: [PowerPlatform]
 tags: [PowerPlatform]

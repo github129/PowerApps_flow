@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Power Platform CoE スターターキット CenterofExcellenceInnovationBacklog について"
+title: "Power Platform CoE スターターキット Theming について"
 description: "Power Apps のキャンバスアプリで組織独自のテーマを作成するためのソリューションです"
 categories: [PowerPlatform]
 tags: [PowerPlatform]
