@@ -5,9 +5,9 @@ description: "執筆中"
 categories: [PowerPlatform, CoE]
 tags: [PowerPlatform, CoE]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2022/033102.png
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2022/033102.pngs
 redirect_from:
   - /2022/03/31/
 ---
@@ -102,28 +102,28 @@ CenterofExcellenceCoreComponentsTeams .zip をインポートします。
 
 ここまで行うと、 以下のフローがオンにできます。
 
-12.   CLEANUP - Admin | Sync Template v3 (Check Deleted)
+12. CLEANUP - Admin  Sync Template v3 (Check Deleted)
 
 
-オンになると CLEANUP - Admin | Sync Template v3 (Check Deleted) は タイマートリガーなので、自動的に１度だけ実行されます。
+オンになると CLEANUP - Admin  Sync Template v3 (Check Deleted) は タイマートリガーなので、自動的に１度だけ実行されます。
 
 <img src="/assets/blogpost/2022/033111.png"/><br/>
 
 
-13.  Admin | Sync Template v3 (Connectors)
+13.   Admin  Sync Template v3 (Connectors)
     1.  こちらもオンにすると自動的に実行されます。成功したことを確認しましょう。処理時間はおよそ10分前後掛かります。 
-14.  Admin | Sync Template v3 (Apps)
-15.  Admin | Sync Template v3 (Custom Connectors)
-16.  Admin | Sync Template v3 (Desktop Flow - Runs)
-17.  Admin | Sync Template v3 (Desktop flows)
-18.  Admin | Sync Template v3 (Flow Action Details)
-19.  Admin | Sync Template v3 (Flows)
-20.  Admin | Sync Template v3 (Model Driven Apps)
-21.  Admin | Sync Template v3 (Portals)
-22.  Admin | Sync Template v3 (PVA)
-23.  Admin | Sync Template v3 (Sync Flow Errors)
-24.  Admin | Sync Template v3 Configure Emails
-25.  Admin | Sync Template v3
+14. .   Admin  Sync Template v3 (Apps)
+15.  Admin  Sync Template v3 (Custom Connectors)
+16.  Admin  Sync Template v3 (Desktop Flow - Runs)
+17.  Admin  Sync Template v3 (Desktop flows)
+18.  Admin  Sync Template v3 (Flow Action Details)
+19.  Admin  Sync Template v3 (Flows)
+20.  Admin  Sync Template v3 (Model Driven Apps)
+21.  Admin  Sync Template v3 (Portals)
+22.  Admin  Sync Template v3 (PVA)
+23.  Admin  Sync Template v3 (Sync Flow Errors)
+24.  Admin  Sync Template v3 Configure Emails
+25.  Admin  Sync Template v3
      1. タイマートリガーなので自動で実行されます。オンにした後すぐにオフにしましょう。
      2. 実行にはかなりの時間がかかります（ディレイが 最大900分設定されているため） そこまで待ちたくない場合は、ディレイの設定を適当に変えましょう
 
