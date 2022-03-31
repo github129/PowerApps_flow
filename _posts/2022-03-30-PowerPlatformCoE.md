@@ -2,8 +2,8 @@
 layout: post
 title: "Power Platform CoE スターターキット について"
 description: "Microsoft Power Platform CoE スターター キットは、コンポーネントとツールのコレクションで、Power Apps および Power Automate に焦点をあて、Microsoft Power Platform の採用とサポートの戦略開発を始めるのに役立つように設計されています"
-categories: [PowerPlatform]
-tags: [PowerPlatform]
+categories: [PowerPlatform, CoE]
+tags: [PowerPlatform, CoE]
 image: >-
   https://www.powerplatform.work/assets/noimage.png
 optimized_image: >-
@@ -71,80 +71,83 @@ Microsoft Power Platform CoE スターター キットは、コンポーネン�
 ### ALMAcceleratorForMakers
 
 Power Platform で ALM を達成するためのツールで主に作成者や開発者側が使うツールになります。
-[公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/almaccelerator-components)
-[解説記事]()
+
+- [公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/almaccelerator-components)
+- [解説記事]()
 
 
 ### CenterofExcellenceALMAccelerator
 
 Power Platform で Azure DevOps と ALM でソリューションを展開するために利用します。
 このシステムを使うことで、 ALM に関する深い知識を必要とせずに ALM を実装できます。
-[公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/almacceleratorpowerplatform-components)
-[解説記事]()
+
+- [公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/almacceleratorpowerplatform-components)
+- [解説記事]()
 
 
 ### CenterofExcellenceALMAccelerator
 
 Power Platform で Azure DevOps と ALM でソリューションを展開するために利用します。
 このシステムを使うことで、 ALM に関する深い知識を必要とせずに ALM を実装できます。
-[公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/almacceleratorpowerplatform-components)
-[解説記事]()
+
+- [公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/almacceleratorpowerplatform-components)
+- [解説記事]()
 
 ### CenterofExcellenceAuditComponents
 
 監査関連 (確認中) 
 
-[公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/setup-auditlog)
-[解説記事]()
+- [公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/setup-auditlog)
+- [解説記事]()
 
 ### CenterofExcellenceAuditLogs
 
 監査ログ関連 (確認中) 
 
-[公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/setup-auditlog)
-[解説記事]()
+- [公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/setup-auditlog)
+- [解説記事]()
 
 
 ### CenterofExcellenceCoreComponents
 
 CenterofExcellenceCoreComponentsは、Center of Excellence (CoE) のセットアップを開始するためのコアを提供します
 
-[公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/core-components)
-[解説記事]()
+- [公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/core-components)
+- [解説記事]()
 
 ### CenterofExcellenceCoreComponentsTeams
 
 CenterofExcellenceCoreComponentsTeams は、Center of Excellence (CoE) のセットアップを開始するためのコアを提供します (for Teams 用)
 
-[公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/core-components)
-[解説記事]()
+- [公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/core-components)
+- [解説記事]()
 
 ### CenterofExcellenceInnovationBacklog
 
 構築が必要なアプリとフローのアイデアを提出するようユーザーに依頼し、現在のプロセスの問題点を洗い出すためのソリューションです
 
-[公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/innovationbacklog-components)
-[解説記事]()
+- [公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/innovationbacklog-components)
+- [解説記事]()
 
 ### CenterofExcellenceNurtureComponents
 
 Power Platform の作成者や内部コミュニティを育成するためのトレーニングなどを管理するためのソリューションです
 
-[公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/nurture-components)
-[解説記事]()
+- [公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/nurture-components)
+- [解説記事]()
 
 ## Theming
 
 Power Apps のキャンバスアプリで組織独自のテーマを作成するためのソリューションです
 
-[公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/theming-components)
-[解説記事]()
+- [公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/theming-components)
+- [解説記事]()
 
 ## ダッシュボード
 
 各種環境用のダッシュボードが含まれています。
 
-[公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/setup-powerbi)
+- [公式サイト](https://docs.microsoft.com/ja-jp/power-platform/guidance/coe/setup-powerbi)
 
 
 # リンク
