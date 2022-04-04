@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Power Platform CoE スターターキット Center of Excellence CoreComponents Teams について"
-description: "執筆中"
+description: "Center of Excellence CoreComponents Teams は 管理者向けのコア機能を備えたシステム（ソリューション）で申請アプリや BI ダッシュボードなども備えています"
 categories: [PowerPlatform, CoE]
 tags: [PowerPlatform, CoE]
 image: >-
