@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Power Automate で Bad request という言葉が含まれていた場合の対策"
-description: "執筆中"
+description: "Bad request が発生する原因は主にアクションの構成によるものです"
 categories: [PowerAutomate]
 tags: [PowerAutomate]
 image: >-
-  https://www.powerplatform.work/assets/blogpost/2022/033102.png
+  https://www.powerplatform.work/assets/noimage_flow.png
 optimized_image: >-
-  https://www.powerplatform.work/assets/blogpost/2022/033102.pngs
+  https://www.powerplatform.work/assets/noimage_flow.png
 redirect_from:
   - /2022/04/04/
 ---
