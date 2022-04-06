@@ -7,7 +7,7 @@ tags: [PowerPlatform, CoE]
 image: >-
   https://www.powerplatform.work/assets/blogpost/2022/033102.png
 optimized_image: >-
-  https://www.powerplatform.work/assets/blogpost/2022/033102.pngs
+  https://www.powerplatform.work/assets/blogpost/2022/033102.png
 redirect_from:
   - /2022/03/31/
 ---
