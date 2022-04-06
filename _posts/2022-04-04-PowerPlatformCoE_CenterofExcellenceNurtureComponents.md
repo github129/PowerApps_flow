@@ -5,9 +5,9 @@ description: "Power Platform の作成者や内部コミュニティを育成す
 categories: [PowerPlatform]
 tags: [PowerPlatform]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2022/040810.png
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2022/040810.png
 redirect_from:
   - /2022/04/04/
 ---
