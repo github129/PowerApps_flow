@@ -138,9 +138,13 @@ Web
 
 <img src="/assets/blogpost/2022/041016.png"/><br/>
 
+この部分は後でバーコードスキャナーを手に入れて別途動作を確認したいです。
+
+
 MR系は動かないみたいですね。
 
 <img src="/assets/blogpost/2022/041017.png"/><br/>
+
 
 
 # リンク
