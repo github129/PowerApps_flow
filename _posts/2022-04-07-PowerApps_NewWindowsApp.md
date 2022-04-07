@@ -80,34 +80,34 @@ Windows 11 で調査しています。
 
 旧アプリは事前にダウンロードが必要ですが、新アプリはダウンロードの必要がありません（初回のロード時間が２回目以降の起動に比べて長いのでおそらく初回起動時にダウンロードしています）。旧アプリはダウンロードした瞬間に起動します（個人的にはこの機能は嫌いでした）。
 
-<img src="/assets/blogpost/2022/04108.png"/><br/>
+<img src="/assets/blogpost/2022/041008.png"/><br/>
 
 ### スプラッシュ画面
 
 新アプリはモダンな感じのスプラッシュ画面に対して、旧アプリは Web と同じようなスプラッシュ画面ですね。
 
-<img src="/assets/blogpost/2022/04109.png"/><br/>
+<img src="/assets/blogpost/2022/041009.png"/><br/>
 
 ## 一覧への戻り方(アプリの終了のやり方)
 
 旧アプリではアプリコマンド→終了 とアプリコマンドを毎回押す必要がありましたが、新アプリは右上から戻れるようになっています。
 
-<img src="/assets/blogpost/2022/04113.png"/><br/>
-<img src="/assets/blogpost/2022/04114.png"/><br/>
+<img src="/assets/blogpost/2022/041013.png"/><br/>
+<img src="/assets/blogpost/2022/041014.png"/><br/>
 
 
 ### アプリの動作
 
 新アプリは正しく動作しますが、旧アプリは動作しませんでした。(旧アプリは2年くらい前からずっとこんな感じ)
 
-<img src="/assets/blogpost/2022/04110.png"/><br/>
+<img src="/assets/blogpost/2022/041010.png"/><br/>
 
 また、旧アプリではスクロール（フォーム）が正しく動作しませんが、新アプリは Web と同じく正しく動作します。
 
-<img src="/assets/blogpost/2022/04111.png"/><br/>
+<img src="/assets/blogpost/2022/041011.png"/><br/>
 
 画面サイズを小さくしても新アプリはそのサイズで自動的に調整してくれます。旧アプリはアプリ以下のサイズにできず、Webはリサイズアイコンを選択しない限り潰れます。
-<img src="/assets/blogpost/2022/04112.png"/><br/>
+<img src="/assets/blogpost/2022/041012.png"/><br/>
 
 ## スライダーループおよびタイマーループの動作検証
 
@@ -132,15 +132,15 @@ Web
 
 アプリやカメラを使っている場合は当然ですが、利用許可が求められますね。
 
-<img src="/assets/blogpost/2022/04115.png"/><br/>
+<img src="/assets/blogpost/2022/041015.png"/><br/>
 
 実験的に StreemCam で バーコードスキャンを試してみましたが、問題なくスキャンができました。
 
-<img src="/assets/blogpost/2022/04116.png"/><br/>
+<img src="/assets/blogpost/2022/041016.png"/><br/>
 
 MR系は動かないみたいですね。
 
-<img src="/assets/blogpost/2022/04117.png"/><br/>
+<img src="/assets/blogpost/2022/041017.png"/><br/>
 
 
 # リンク
