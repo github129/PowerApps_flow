@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2022年4月にパワーアップして再登場!! 新たな Windows 用 Power Apps アプリを試してみた"
-description: "2022年3月31日よりMicrosoft Power Platform APIのパブリックプレビューを導入しています"
+description: "この度 Windows 用の Power Apps アプリがパワーアップし新たに Windows Store に再登場したので、早速試してみました"
 categories: [PowerApps]
 tags: [PowerApps]
 image: >-
