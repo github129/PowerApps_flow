@@ -5,9 +5,9 @@ description: "Power Apps のキャンバスアプリで組織独自のテーマ�
 categories: [PowerPlatform]
 tags: [PowerPlatform]
 image: >-
-  https://www.powerplatform.work/assets/blogpost/2022/041303
+  https://www.powerplatform.work/assets/blogpost/2022/041303.png
 optimized_image: >-
-  https://www.powerplatform.work/assets/blogpost/2022/041303
+  https://www.powerplatform.work/assets/blogpost/2022/041303.png
 redirect_from:
   - /2022/04/13/
 ---
