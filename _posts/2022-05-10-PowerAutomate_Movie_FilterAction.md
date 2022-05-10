@@ -2,8 +2,8 @@
 layout: post
 title: "【フィルター】Excelのテーブルを絞り込んで使う方法【Power Automate】"
 description: "本記事ではPower AutomateでExcelを絞り込んで利用する方法をご紹介します"
-categories: [PowerAutomate]
-tags: [PowerAutomate]
+categories: [PowerAutomate,Excel]
+tags: [PowerAutomate,Excel]
 image: >-
   https://www.powerplatform.work/assets/blogpost/2022/051001.png
 optimized_image: >-
@@ -16,6 +16,7 @@ redirect_from:
 #  概要
 
 本記事ではPower AutomateでExcelを絞り込んで利用する方法をご紹介します
+
 
 # 作成方法
 
