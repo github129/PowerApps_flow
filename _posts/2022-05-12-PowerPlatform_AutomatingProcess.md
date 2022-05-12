@@ -2,8 +2,8 @@
 layout: post
 title: "「それ自動化する価値はあるの？」って言われたときのために読んでおきたい資料"
 description: "自動化するにはコストがかかりますが、自動化しないことにもコストがかかっている"
-categories: [公式ブログ]
-tags: [公式ブログ]
+categories: [公式ブログ,ポエム]
+tags: [公式ブログ,ポエム]
 image: >-
   https://www.powerplatform.work/assets/noimage.png
 optimized_image: >-
