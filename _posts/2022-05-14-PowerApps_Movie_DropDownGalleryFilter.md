@@ -34,8 +34,10 @@ Filter(ImportData,性別 = Dropdown1.Selected.Value)
 Filter(ImportData, 性別=Dropdown1.Selected.Value && 所属=Dropdown1_1.Selected.Value)
 ```
 
-- && であれば、すべての条件が一致していこと
-- || であれば、どれか１つでも条件が一致していること
+```
+ && であれば、すべての条件が一致していこと
+ || であれば、どれか１つでも条件が一致していること
+```
 
 という形になります。
 
