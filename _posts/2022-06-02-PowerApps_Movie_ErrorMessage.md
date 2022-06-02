@@ -9,7 +9,7 @@ image: >-
 optimized_image: >-
   https://www.powerplatform.work/assets/blogpost/2022/060301.png
 redirect_from:
-  - /2022/06/03/
+  - /2022/06/02/
 ---
 
 
