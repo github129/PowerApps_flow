@@ -61,33 +61,33 @@ sample というチームを削除してみます。
 
 復元が完了しました。
 
-<img src="/assets/blogpost/2022/04110.png"/><br/>
+<img src="/assets/blogpost/2022/041510.png"/><br/>
 
 一覧に Redy の状態で戻っていることも確認できました。
 
-<img src="/assets/blogpost/2022/04111.png"/><br/>
+<img src="/assets/blogpost/2022/041511.png"/><br/>
 
 ## チームの方はどうなっている？
 
 当然といえば当然ですが、チームは削除された状態のままになります。
 
-<img src="/assets/blogpost/2022/04112.png"/><br/>
+<img src="/assets/blogpost/2022/041512.png"/><br/>
 
 通常であれば、画像のようにアプリを共有することも可能ですが、
 
-<img src="/assets/blogpost/2022/04113.png"/><br/>
+<img src="/assets/blogpost/2022/041513.png"/><br/>
 
 セキュリティグループもなくなっているため、共有することもできません。
 
-<img src="/assets/blogpost/2022/04114.png"/><br/>
+<img src="/assets/blogpost/2022/041514.png"/><br/>
 
 もしチームを復元する場合は、管理センターから復元する形になります。
 
-<img src="/assets/blogpost/2022/04115.png"/><br/>
+<img src="/assets/blogpost/2022/041515.png"/><br/>
 
 復元後は問題なく共有ができるようになっています。
 
-<img src="/assets/blogpost/2022/04116.png"/><br/>
+<img src="/assets/blogpost/2022/041516.png"/><br/>
 
 # まとめ
 
