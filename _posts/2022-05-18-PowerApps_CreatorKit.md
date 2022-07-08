@@ -5,9 +5,9 @@ description: "Power Apps で Microsoft から Creator Kit が公開されまし�
 categories: [PowerApps]
 tags: [PowerApps]
 image: >-
-  https://www.powerplatform.work/assets/blogpost/noimage.png
+  https://www.powerplatform.work/assets/noimage.png
 optimized_image: >-
-  https://www.powerplatform.work/assets/blogpost/noimage.png
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2022/05/18/
 ---
