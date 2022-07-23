@@ -5,9 +5,9 @@ description: "【#PowerAutomate】お客様アンケートに回答があった�
 categories: [PowerApps]
 tags: [PowerApps]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2022/071701.jpg
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2022/071701.jpg
 redirect_from:
   - /2022/07/17
 ---

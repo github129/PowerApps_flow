@@ -5,9 +5,9 @@ description: "【#PowerApps】Excelを使って営業訪問記録アプリを作
 categories: [PowerApps]
 tags: [PowerApps]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2022/071801.jpg
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2022/071801.jpg
 redirect_from:
   - /2022/07/16
 ---
