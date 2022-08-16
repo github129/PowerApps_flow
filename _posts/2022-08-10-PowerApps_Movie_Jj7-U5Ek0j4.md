@@ -2,8 +2,8 @@
 layout: post
 title: "【#PowerAutomate】SharePoint の添付ファイルを承認メールに添付して送信する方法"
 description: "【#PowerAutomate】SharePoint の添付ファイルを承認メールに添付して送信する方法を動画で分かりやすく解説"
-categories: [PowerApps]
-tags: [PowerApps]
+categories: [PowerAutomate]
+tags: [PowerAutomate]
 image: >-
   https://www.powerplatform.work/assets/blogpost/2022/081601.jpg
 optimized_image: >-
