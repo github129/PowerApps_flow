@@ -2,8 +2,8 @@
 layout: post
 title: "【#PowerAutomate】データの重複を削除する方法 【Power Automate で Distinct 関数】 #Shorts"
 description: "【#PowerAutomate】データの重複を削除する方法 【Power Automate で Distinct 関数】 #Shortsを動画で分かりやすく解説"
-categories: [PowerApps]
-tags: [PowerApps]
+categories: [PowerAutomate]
+tags: [PowerAutomate]
 image: >-
   https://www.powerplatform.work/assets/noimage.png
 optimized_image: >-
