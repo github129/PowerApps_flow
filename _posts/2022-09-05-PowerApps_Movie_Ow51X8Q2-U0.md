@@ -5,9 +5,9 @@ description: "【#PowerApps】シンプルで使いやすい選択コントロ�
 categories: [PowerApps]
 tags: [PowerApps]
 image: >-
-  https://www.powerplatform.work/assets/2022/090501.jpg
+  https://www.powerplatform.work/assets/blogpost/2022/090501.jpg
 optimized_image: >-
-  https://www.powerplatform.work/assets/2022/090501.jpg
+  https://www.powerplatform.work/assets/blogpost/2022/090501.jpg
 redirect_from:
   - /2022/09/05
 ---

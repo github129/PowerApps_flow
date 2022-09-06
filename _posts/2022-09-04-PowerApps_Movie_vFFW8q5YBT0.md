@@ -5,9 +5,9 @@ description: "【#PowerAutomate】 #Outlook でフラグを付けたら自動で
 categories: [PowerAutomate]
 tags: [PowerAutomate]
 image: >-
-  https://www.powerplatform.work/assets/2022/090401.jpg
+  https://www.powerplatform.work/assets/blogpost/2022/090401.jpg
 optimized_image: >-
-  https://www.powerplatform.work/assets/2022/090401.jpg
+  https://www.powerplatform.work/assets/blogpost/2022/090401.jpg
 redirect_from:
   - /2022/09/04
 ---
