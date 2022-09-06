@@ -5,9 +5,9 @@ description: "【#PowerApps】複数列表示のギャラリーを作る方法 #
 categories: [PowerApps]
 tags: [PowerApps]
 image: >-
-  https://www.powerplatform.work/assets/blogpost/2022/082901.jpg
+  https://www.powerplatform.work/assets/noimage.png
 optimized_image: >-
-  https://www.powerplatform.work/assets/blogpost/2022/082901.jpg
+  https://www.powerplatform.work/assets/noimage.png
 redirect_from:
   - /2022/08/29
 ---
