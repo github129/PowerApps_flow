@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "【#PowerAutomate】 #Outlook でフラグを付けたら自動で タスクを追加する方法 #Shorts"
-description: "【#PowerAutomate】 #Outlook でフラグを付けたら自動で タスクを追加する方法 #Shortsを動画で分かりやすく解説"
+title: "【#PowerAutomate】 #Outlook でフラグを付けたら自動で タスクを追加する方法 "
+description: "【#PowerAutomate】 #Outlook でフラグを付けたら自動で タスクを追加する方法を動画で分かりやすく解説"
 categories: [PowerAutomate]
 tags: [PowerAutomate]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/2022/090401.jpg
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/2022/090401.jpg
 redirect_from:
   - /2022/09/04
 ---
