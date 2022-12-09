@@ -18,7 +18,7 @@ redirect_from:
 Power Apps のキャンバスアプリのスクロール位置をリセットする方法をご紹介します。
 
 
-# 作業時間を記録するアプリの作成方法
+# アプリの作成方法
 
 <iframe width="392" height="696" src="https://www.youtube.com/embed/jBRtQgar_Ds" title="【#PowerApps】スクロールの位置をリセットする方法 #Shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

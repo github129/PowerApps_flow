@@ -18,7 +18,7 @@ redirect_from:
 【#PowerApps】ショッピングカートのようにコレクションから商品を「個数を指定して」出し入れする仕組みを作る方法
 
 
-# 作業時間を記録するアプリの作成方法
+# アプリの作成方法
 
 <iframe width="983" height="553" src="https://www.youtube.com/embed/OtM5W75mDQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

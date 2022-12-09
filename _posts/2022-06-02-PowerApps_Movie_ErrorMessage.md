@@ -18,7 +18,7 @@ redirect_from:
 Power Apps のキャンバスアプリでエラーメッセージを表示する方法をご紹介します。
 
 
-# 作業時間を記録するアプリの作成方法
+# アプリの作成方法
 
 <iframe width="394" height="701" src="https://www.youtube.com/embed/fOwlXCmnIws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -18,7 +18,7 @@ redirect_from:
 【#PowerApps】 検索ワードを半角スペースで区切って複数のワードで検索する方法 #Shorts
 
 
-# 作業時間を記録するアプリの作成方法
+# アプリの作成方法
 
 <iframe width="983" height="553" src="https://www.youtube.com/embed/j8w8ij9xR5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

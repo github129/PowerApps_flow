@@ -18,7 +18,7 @@ redirect_from:
 関数や式を書かずに、一瞬でメール送信アプリを作る方法  #PowerApps #Shorts
 
 
-# 作業時間を記録するアプリの作成方法
+# アプリの作成方法
 
 <iframe width="983" height="553" src="https://www.youtube.com/embed/qkKiNPchedE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

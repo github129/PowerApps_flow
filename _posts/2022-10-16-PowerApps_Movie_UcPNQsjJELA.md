@@ -18,7 +18,7 @@ redirect_from:
 【#PowerApps】 １秒で消える通知を作る方法 【Notify】 #Shorts
 
 
-# 作業時間を記録するアプリの作成方法
+# アプリの作成方法
 
 <iframe width="983" height="553" src="https://www.youtube.com/embed/UcPNQsjJELA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

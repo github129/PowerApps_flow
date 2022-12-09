@@ -18,7 +18,7 @@ redirect_from:
 Power Apps 公式ブログの最新情報を表示するアプリの作り方 #PowerApps #Shorts
 
 
-# 作業時間を記録するアプリの作成方法
+# アプリの作成方法
 
 <iframe width="983" height="553" src="https://www.youtube.com/embed/VGD6R2xZ10w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

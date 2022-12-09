@@ -18,7 +18,7 @@ redirect_from:
 【#PowerApps】 日付コントロールのヒントテキスト（2001年12月31日）の表示を変更する方法【HitText】 #Shorts
 
 
-# 作業時間を記録するアプリの作成方法
+# アプリの作成方法
 
 <iframe width="983" height="553" src="https://www.youtube.com/embed/5Ie695Pug1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

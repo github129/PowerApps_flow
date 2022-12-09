@@ -18,7 +18,7 @@ redirect_from:
 【実写】Power Apps の新しいテスト What is Test Engine #PowerApps
 
 
-# 作業時間を記録するアプリの作成方法
+# アプリの作成方法
 
 <iframe width="983" height="553" src="https://www.youtube.com/embed/YScZ_YiA1C8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

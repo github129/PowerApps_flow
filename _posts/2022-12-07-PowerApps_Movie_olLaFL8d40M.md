@@ -18,7 +18,7 @@ redirect_from:
 ギャラリーのテスト一覧の点数が特定の点数未満の時に、点数の色を赤くする方法 #PowerApps #Shorts
 
 
-# 作業時間を記録するアプリの作成方法
+# アプリの作成方法
 
 <iframe width="983" height="553" src="https://www.youtube.com/embed/olLaFL8d40M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

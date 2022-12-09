@@ -18,7 +18,7 @@ redirect_from:
 【#PowerApps】 受付においてある担当者呼び出しタブレットを作る方法【#Excel】
 
 
-# 作業時間を記録するアプリの作成方法
+# アプリの作成方法
 
 <iframe width="983" height="553" src="https://www.youtube.com/embed/CesX0Rc_Ae8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

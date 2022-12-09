@@ -18,7 +18,7 @@ redirect_from:
 自動計算で前後２年の年の選択肢を生成し、ドロップダウンで利用する方法【#PowerApps】
 
 
-# 作業時間を記録するアプリの作成方法
+# アプリの作成方法
 
 <iframe width="983" height="553" src="https://www.youtube.com/embed/-gUbU4aaGKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

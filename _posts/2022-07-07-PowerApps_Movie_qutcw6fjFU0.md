@@ -18,7 +18,7 @@ redirect_from:
 【#PowerApps】ギャラリー内のチェックボックスを一括選択できるチェックボックスを作成する方法　#Shorts
 
 
-# 作業時間を記録するアプリの作成方法
+# アプリの作成方法
 
 <iframe width="983" height="553" src="https://www.youtube.com/embed/qutcw6fjFU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
