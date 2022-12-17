@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "コンボボックスコントロールの "アイテムの検索" の表示を変更する方法 #PowerApps #Shorts"
-description: "コンボボックスコントロールの "アイテムの検索" の表示を変更する方法 #PowerApps #Shortsを動画で分かりやすく解説"
+title: "コンボボックスコントロールの アイテムの検索 の表示を変更する方法 #PowerApps #Shorts"
+description: "コンボボックスコントロールの アイテムの検索 の表示を変更する方法 #PowerApps #Shortsを動画で分かりやすく解説"
 categories: [PowerApps]
 tags: [PowerApps]
 image: >-
