@@ -102,9 +102,6 @@ If the URL parameter is an id
 The Liquid result can be output in JavaScript. So it is possible to display it on alert or console.
 
 
-Translated with www.DeepL.com/Translator (free version)
-
-
 
 # リンク
 
