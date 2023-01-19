@@ -29,9 +29,11 @@ JavaScript はクライアントサイドでレンダリングされます。そ
 
 Liquid でフィードバックテーブルの Title 列を表示する場合は以下のような書き方になります。
 
+Liquid がサイトの性質上記載できないため、波括弧を半角に置き換えて利用してください。
+
 ```
 
-{{ entities.feedback["07bb8d13-fb95-ed11-aad1-xxxxxxxxxxxx"].title }}
+｛｛ entities.feedback["07bb8d13-fb95-ed11-aad1-xxxxxxxxxxxx"].title ｝｝
 
 ```
 
@@ -45,7 +47,8 @@ URLパラメータが id の場合
 ```
 
 <script>
-  const test =  "{{entities.feedback[request.params['id']].title }}"
+  // Liquid がサイトの性質上記載できないため、波括弧を半角に置き換えて利用してください。
+  const test =  "｛｛ entities.feedback[request.params['id']].title ｝｝"
   alert(test)
 </script>
 
@@ -74,7 +77,7 @@ To display the title column of a feedback table in Liquid, write something like 
 
 ```
 
-{{ entities.feedback["07bb8d13-fb95-ed11-aad1-xxxxxxxxxxxx"].title }}
+｛｛ entities.feedback["07bb8d13-fb95-ed11-aad1-xxxxxxxxxxxx"].title ｝｝
 
 ```
 
@@ -87,9 +90,10 @@ If the URL parameter is an id
 
 
 ```
+// Liquid cannot be listed due to the nature of the site, so please replace the curly brackets with single-byte characters.
 
 <script>
-  const test =  "{{entities.feedback[request.params['id']].title }}"
+  const test =  "｛｛ entities.feedback[request.params['id']].title ｝｝"
   alert(test)
 </script>
 
