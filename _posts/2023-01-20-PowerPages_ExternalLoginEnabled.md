@@ -26,7 +26,7 @@ Authentication/Registration/EmailConfirmationEnabled
 
 ```
 
-<img src="assets/blogpost/2023/012003.jpg"/><br/>
+<img src="/assets/blogpost/2023/012003.jpg"/><br/>
 
 
 
@@ -40,7 +40,7 @@ Authentication/Registration/ExternalLoginEnabled
 
 ```
 
-<img src="assets/blogpost/2023/012002.jpg"/><br/>
+<img src="/assets/blogpost/2023/012002.jpg"/><br/>
 
 
 # 余談
@@ -60,7 +60,7 @@ Authentication/Registration/EmailConfirmationEnabled
 
 ```
 
-<img src="assets/blogpost/2023/012003.jpg"/><br/>
+<img src="/assets/blogpost/2023/012003.jpg"/><br/>
 
 ## Manage external authentication
 
@@ -72,7 +72,7 @@ Authentication/Registration/ExternalLoginEnabled
 
 ```
 
-<img src="assets/blogpost/2023/012002.jpg"/><br/>
+<img src="/assets/blogpost/2023/012002.jpg"/><br/>
 
 # A side note
 
