@@ -152,6 +152,36 @@ D) Search(Orders, DatePicker1.SelectedDate || DatePicker1.SelectedDate, "注文�
 <summary>答えを見る</summary>
 答え：A
 
-解説：Filter関数は、指定した条件に合致するレコードをフィルターします。この場合、DatePicker1で選択された範囲に含まれる注文日のレコードをGallery1に表示します。>=は以上を表し、<=は以下を表します。Search関数は、指定した列のいずれかに一致するレコードを検索します。この場合、DatePicker1で選択された範囲に含まれる注文日のレコードをGallery1に表示することはできません。&は文字列の連結を表し、||は論理和を表します。
+解説：Filter関数は、指定した条件に合致するレコードをフィルターします。この場合、DatePicker1で選択された範囲に含まれる注文日のレコードをGallery1に表示します。>=は以上を表し、<=は以下を表します。Search関数は、指定した列のいずれかに一致するレコードを検索します。この場合、DatePicker1で選択された範囲に含まれる注文日のレコードをGallery1に表示することはできません。
+</details>
+<br/>
+
+問題７：コレクションSalesには、売上日、店舗名、商品名、数量、単価の列があります。
+
+|売上日|店舗名|商品名|数量|単価|
+|---|---|---|---|---|
+|2022/01/01|A店|X|10|100|
+|2022/01/01|B店|Y|20|200|
+|2022/01/02|A店|Z|30|300|
+|2022/01/02|B店|X|40|100|
+
+このコレクションは以下の式で作成できます
+
+```
+ClearCollect(Sales, {売上日: Date(2022, 1, 1), 店舗名: "A店", 商品名: "X", 数量: 10, 単価: 100}, {売上日: Date(2022, 1, 1), 店舗名: "B店", 商品名: "Y", 数量: 20, 単価: 200}, {売上日: Date(2022, 1, 2), 店舗名: "A店", 商品名: "Z", 数量: 30, 単価: 300}, {売上日: Date(2022, 1, 2), 店舗名: "B店", 商品名: "X", 数量: 40, 単価: 100} )
+```
+
+TextInput1には、商品名の一部を入力できます。DropDown1には、店舗名の一覧が表示されます。TextInput1とDropDown1で検索条件を指定した場合、その条件に合致する売上のみをGallery4に表示するには、Gallery4のItemsプロパティにどのような式を入力すればよいでしょうか？<br/>
+
+A) If(TextInput1.Text = "", Sales, Search(Sales, TextInput1.Text, "商品名")) && If(DropDown1.Selected.Value = "", Sales, Filter(Sales, 店舗名 = DropDown1.Selected.Value))<br/>
+B) If(TextInput1.Text = "", Sales, Search(Sales, TextInput1.Text, "商品名")) || If(DropDown1.Selected.Value = "", Sales, Filter(Sales, 店舗名 = DropDown1.Selected.Value))<br/>
+C) If(TextInput1.Text = "" && DropDown1.Selected.Value = "", Sales, Search(Filter(Sales, 店舗名 = DropDown1.Selected.Value), TextInput1.Text, "商品名"))<br/>
+D) If(TextInput1.Text = "" || DropDown1.Selected.Value = "", Sales, Search(Filter(Sales, 店舗名 = DropDown1.Selected.Value), TextInput1.Text, "商品名"))<br/>
+
+<details>
+<summary>答えを見る</summary>
+答え：C
+
+解説：If関数は、指定した条件が true か false かに応じて、異なる値を返します。この場合、TextInput1とDropDown1の両方が空の場合は、Salesの全てのレコードを返します。そうでない場合は、Filter関数とSearch関数を使って検索条件に合致するレコードを返します。Filter関数は、指定した条件に合致するレコードをフィルターします。この場合、DropDown1で選択された店舗名と一致するレコードをSalesから抽出します。Search関数は、指定した列の値に含まれる文字列を検索します。この場合、TextInput1で入力された商品名の一部と一致するレコードをFilter関数の結果から抽出します。
 </details>
 <br/>
