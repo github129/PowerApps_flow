@@ -171,7 +171,7 @@ D) Search(Orders, DatePicker1.SelectedDate || DatePicker1.SelectedDate, "注文�
 ClearCollect(Sales, {売上日: Date(2022, 1, 1), 店舗名: "A店", 商品名: "X", 数量: 10, 単価: 100}, {売上日: Date(2022, 1, 1), 店舗名: "B店", 商品名: "Y", 数量: 20, 単価: 200}, {売上日: Date(2022, 1, 2), 店舗名: "A店", 商品名: "Z", 数量: 30, 単価: 300}, {売上日: Date(2022, 1, 2), 店舗名: "B店", 商品名: "X", 数量: 40, 単価: 100} )
 ```
 
-TextInput1には、商品名の一部を入力できます。DropDown1には、店舗名の一覧が表示されます。TextInput1とDropDown1で検索条件を指定した場合、その条件に合致する売上のみをGallery4に表示するには、Gallery4のItemsプロパティにどのような式を入力すればよいでしょうか？<br/>
+TextInput1には、商品名の一部を入力できます。DropDown1には、店舗名の一覧が表示されます。TextInput1とDropDown1で検索条件を指定した場合、その条件に合致する売上のみをGallery4に表示するには、Gallery4のItemsプロパティにどのような式を入力すればよいでしょうか？また検索条件がない場合は、全てのデータを表示するものとします。<br/>
 
 A) If(TextInput1.Text = "", Sales, Search(Sales, TextInput1.Text, "商品名")) && If(DropDown1.Selected.Value = "", Sales, Filter(Sales, 店舗名 = DropDown1.Selected.Value))<br/>
 B) If(TextInput1.Text = "", Sales, Search(Sales, TextInput1.Text, "商品名")) || If(DropDown1.Selected.Value = "", Sales, Filter(Sales, 店舗名 = DropDown1.Selected.Value))<br/>
@@ -183,5 +183,6 @@ D) If(TextInput1.Text = "" || DropDown1.Selected.Value = "", Sales, Search(Filte
 答え：C
 
 解説：If関数は、指定した条件が true か false かに応じて、異なる値を返します。この場合、TextInput1とDropDown1の両方が空の場合は、Salesの全てのレコードを返します。そうでない場合は、Filter関数とSearch関数を使って検索条件に合致するレコードを返します。Filter関数は、指定した条件に合致するレコードをフィルターします。この場合、DropDown1で選択された店舗名と一致するレコードをSalesから抽出します。Search関数は、指定した列の値に含まれる文字列を検索します。この場合、TextInput1で入力された商品名の一部と一致するレコードをFilter関数の結果から抽出します。
+Dの場合は、テキスト入力が空の場合、店舗が絞り込まれないため誤りになります。
 </details>
 <br/>
