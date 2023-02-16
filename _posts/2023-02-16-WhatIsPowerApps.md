@@ -82,8 +82,6 @@ Power Platformは、これらのサービスを組み合わせて、ビジネス
 
 [Announcing General Availability (GA) of Power Apps portals support for Microsoft Power Platform CLI](https://powerapps.microsoft.com/ja-jp/blog/announcing-general-availability-ga-of-power-apps-portals-support-for-microsoft-power-platform-cli/#:~:text=Neeraj%20Nandwana%2C%20Senior%20Product%20Manager%2C%202021%E5%B9%B411%E6%9C%883%E6%97%A5%20We%20are,in%20May%202021%20release%20as%20a%20preview%20feature.)
 
-2021年: カスタムコネクタに C# のカスタムコードが記載できるようになりました。これによって API に変更を加えなくてもより柔軟な接続が可能になりました。
-
 
 2022年6月14日: Power Apps のアプリをモバイルアプリに変換できるようになった wrap for Power Apps が GA されました。
 
