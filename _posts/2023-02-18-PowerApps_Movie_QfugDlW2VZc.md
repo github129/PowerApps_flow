@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Power Automate を使って SharePoint のドキュメントライブラリにファイルをアップロードする方法 #Shorts #PowerApps #PowerAutoamte"
+title: "Power Automate を使って SharePoint のドキュメントライブラリにファイルをアップロードする方法  #PowerApps #PowerAutoamte #PowerPlatformWork"
 description: "Power Automate を使って SharePoint のドキュメントライブラリにファイルをアップロードする方法 #Shorts #PowerApps #PowerAutoamteを動画で分かりやすく解説"
-categories: [PowerApps]
+categories: [PowerApps,PowerAutoamte]
 tags: [PowerApps]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2023/021801.jpg
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2023/021801.jpg
 redirect_from:
   - /2023/02/18
 ---
@@ -15,7 +15,7 @@ redirect_from:
 
 #  概要
 
-Power Automate を使って SharePoint のドキュメントライブラリにファイルをアップロードする方法 #Shorts #PowerApps #PowerAutoamte
+Power Automate を使って SharePoint のドキュメントライブラリにファイルをアップロードする方法 #PowerApps #PowerAutoamte
 
 
 # アプリの作成方法
