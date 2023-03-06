@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Power Apps Portal のアーキテクチャ"
-description: ""
+description: "Power Apps Portals は、コミュニティ、顧客、パートナー、従業員などの外部向けに公開できるウェブサイトを管理・構築できるサービスです"
 categories: [Power Apps, Power Apps Portals]
 tags: [Power Apps, Power Apps Portals]
 image: >-

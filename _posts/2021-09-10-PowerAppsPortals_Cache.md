@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Power Apps Portal のキャッシュ"
-description: ""
+description: "キャッシュという仕組みによって高速化がされているため、常に最新の Dataverse のデータが Power Apps Portals に表示されているとは限りません"
 categories: [Power Apps, Power Apps Portals]
 tags: [Power Apps, Power Apps Portals]
 image: >-

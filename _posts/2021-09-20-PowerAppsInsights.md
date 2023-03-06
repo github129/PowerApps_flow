@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Power Apps のモニター機能を使って効率よくアプリをデバックする方法➀"
-description: ""
+description: "Power Apps のモニター機能を使って効率よくアプリをデバックする方法をご紹介します"
 categories: [Power Apps, モニター]
 tags: [Power Apps, Power Apps Portals]
 image: >-

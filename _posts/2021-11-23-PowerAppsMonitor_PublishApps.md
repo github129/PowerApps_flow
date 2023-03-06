@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "公開されたアプリをデバックできる機能 モニターを使ってキャンバスアプリをデバックしよう"
-description: ""
+description: "この機能はアプリの操作や通信などをログ形式で表示し、そこからパフォーマンスや問題点などを調査、修正するために提供されている機能です"
 categories: [Power Apps, モニター]
 tags: [Power Apps, Power Apps Portals]
 image: >-

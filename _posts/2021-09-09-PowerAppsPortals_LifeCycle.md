@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Power Apps Portal のライフサイクル"
-description: ""
+description: "ポータル ライフサイクル　「試用版」「運用版」「停止」「削除」が存在し、各段階への変更時にトースト通知と電子メールで通知されます"
 categories: [Power Apps, Power Apps Portals]
 tags: [Power Apps, Power Apps Portals]
 image: >-
