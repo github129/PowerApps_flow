@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "App の OnStart プロパティが表示されていないときの対処法 #Shorts"
-description: "App の OnStart プロパティが表示されていないときの対処法 #Shortsを動画で分かりやすく解説"
+title: "App の OnStart プロパティが表示されていないときの対処法"
+description: "App の OnStart プロパティが表示されていないときの対処法を動画で分かりやすく解説"
 categories: [PowerApps]
 tags: [PowerApps]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2023/052601.jpg
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2023/052601.jpg
 redirect_from:
   - /2023/05/26
 ---
@@ -15,7 +15,7 @@ redirect_from:
 
 #  概要
 
-App の OnStart プロパティが表示されていないときの対処法 #Shorts
+App の OnStart プロパティが表示されていないときの対処法
 
 
 # アプリの作成方法
