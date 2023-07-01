@@ -88,7 +88,6 @@ Next 側をコメントアウトすることで、前のステージに進ませ
 ビジネスプロセスフローの次のステージや前のステージへの移動を禁止させるには今回のような方法が取れます。もし JavaScript を使わずに
 設定などで可能であればコメント欄より教えていただけると幸いです。
 
-
 # 参考
 
 - [Restrict Business Process Flow (BPF) from going backwards](https://powerusers.microsoft.com/t5/Microsoft-Dataverse/Restrict-Business-Process-Flow-BPF-from-going-backwards/m-p/1768458)
