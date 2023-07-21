@@ -1,7 +1,7 @@
 ---
 layout: post
-title: """=Blank() と IsBlank("") は実は返す結果が違います #PowerApps"
-description: """=Blank() と IsBlank("") は実は返す結果が違います #PowerAppsを動画で分かりやすく解説"
+title: "=Blank() と IsBlank() は実は返す結果が違います #PowerApps"
+description: "=Blank() と IsBlank() は実は返す結果が違います #PowerAppsを動画で分かりやすく解説"
 categories: [PowerApps]
 tags: [PowerApps]
 image: >-
