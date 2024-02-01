@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Power Automate を使って SharePoint のドキュメントライブラリに複数のファイルをアップロードする方法 #Shorts #PowerApps #PowerAutoamte"
-description: "Power Automate を使って SharePoint のドキュメントライブラリに複数のファイルをアップロードする方法 #Shorts #PowerApps #PowerAutoamteを動画で分かりやすく解説"
+title: "Power Automate を使って SharePoint のドキュメントライブラリに複数のファイルをアップロードする方法 #PowerApps #PowerAutoamte"
+description: "Power Automate を使って SharePoint のドキュメントライブラリに複数のファイルをアップロードする方法 #PowerApps #PowerAutoamteを動画で分かりやすく解説"
 categories: [PowerApps]
 tags: [PowerApps]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2024/012801.jpg
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2024/012801.jpg
 redirect_from:
   - /2024/01/28
 ---
