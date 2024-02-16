@@ -45,3 +45,4 @@ redirect_from:
 
 - [【TextInput = "" は駄目】今後テキスト入力コントロールの値を指定する時は .Text を必ずつける必要があります【3.24021】 #PowerApps](https://www.youtube.com/watch?v=TxPkaZypmTA)
 
+
