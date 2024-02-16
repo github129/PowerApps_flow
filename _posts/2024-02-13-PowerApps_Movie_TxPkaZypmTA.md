@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "【TextInput = "" は駄目】今後テキスト入力コントロールの値を指定する時は .Text を必ずつける必要があります【3.24021】 #PowerApps"
-description: "【TextInput = "" は駄目】今後テキスト入力コントロールの値を指定する時は .Text を必ずつける必要があります【3.24021】 #PowerAppsを動画で分かりやすく解説"
+title: "【TextInput =  は駄目】今後テキスト入力コントロールの値を指定する時は .Text を必ずつける必要があります【3.24021】 #PowerApps"
+description: "【TextInput =  は駄目】今後テキスト入力コントロールの値を指定する時は .Text を必ずつける必要があります【3.24021】 #PowerAppsを動画で分かりやすく解説"
 categories: [PowerApps]
 tags: [PowerApps]
 image: >-
