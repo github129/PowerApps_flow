@@ -39,6 +39,8 @@ Power Apps でExcel のように複数人で同じアプリを同時に編集す
 
 Power Appsのコオーサリング機能は、チームでの共同作業を強化し、アプリ開発のプロセスをよりスムーズにします。バージョン3.24063から利用可能なこの機能をぜひお試しください。今後の正式リリースが非常に待ち遠しいですね。
 
+詳しくは公式のドキュメントもご確認ください
+[https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/copresence-power-apps-studio?WT.mc_id=powerapps_inproduct_studio#coauthoring-preview](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/copresence-power-apps-studio?WT.mc_id=powerapps_inproduct_studio#coauthoring-preview)
 
 
 # その他の Tips はこちらから
