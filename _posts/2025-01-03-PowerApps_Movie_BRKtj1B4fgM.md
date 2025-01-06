@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Power Apps のキャンバスアプリのフォームコントロールで、各項目の間で注意メッセージや説明、項目の区切りなどの "表示専用" の項目を追加する方法 #PowerApps"
-description: "Power Apps のキャンバスアプリのフォームコントロールで、各項目の間で注意メッセージや説明、項目の区切りなどの "表示専用" の項目を追加する方法 #PowerAppsを動画で分かりやすく解説"
+title: "Power Apps のキャンバスアプリのフォームコントロールで、各項目の間で注意メッセージや説明、項目の区切りなどの 「表示専用」 の項目を追加する方法 #PowerApps"
+description: "Power Apps のキャンバスアプリのフォームコントロールで、各項目の間で注意メッセージや説明、項目の区切りなどの 「表示専用」 の項目を追加する方法 #PowerAppsを動画で分かりやすく解説"
 categories: [PowerApps]
 tags: [PowerApps]
 image: >-
