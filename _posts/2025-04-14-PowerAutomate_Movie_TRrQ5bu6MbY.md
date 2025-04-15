@@ -5,9 +5,9 @@ description: "コピペで使えるアダプティブカードのサンプルが
 categories: [PowerAutomate]
 tags: [PowerAutomate]
 image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2025/041401.jpg
 optimized_image: >-
-  https://www.powerplatform.work/assets/noimage.png
+  https://www.powerplatform.work/assets/blogpost/2025/041401.jpg
 redirect_from:
   - /2025/04/14
 ---
