@@ -28,7 +28,7 @@ redirect_from:
 
 <details><summary>コード</summary>
 
-```yaml
+```
 - RectQuickActionBar1:
     Control: Rectangle@2.3.0
     Group: Group1
@@ -403,7 +403,7 @@ redirect_from:
 
 <details><summary>コード</summary>
 
-```yaml
+```
 - RectQuickActionBar2:
     Control: Rectangle@2.3.0
     Group: Group2
@@ -693,7 +693,7 @@ redirect_from:
 
 <details><summary>コード</summary>
 
-```yaml
+```
 - RectQuickActionBar3:
     Control: Rectangle@2.3.0
     Group: Group3
@@ -920,7 +920,7 @@ redirect_from:
 
 <details><summary>コード</summary>
 
-```yaml
+```
 - RectQuickActionBar4:
     Control: Rectangle@2.3.0
     Group: Group4
