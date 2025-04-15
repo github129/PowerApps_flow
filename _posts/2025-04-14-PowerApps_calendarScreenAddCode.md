@@ -26,7 +26,6 @@ redirect_from:
 ## カレンダー
 
 
-<details><summary>コード</summary>
 
 ```
 - RectQuickActionBar1:
@@ -397,11 +396,9 @@ redirect_from:
       Y: =CalendarEventsGallery1.Y + CalendarEventsGallery1.Height/2 - Self.Height/2
 ```
 
-</details>
 
 ## 電子メール
 
-<details><summary>コード</summary>
 
 ```
 - RectQuickActionBar2:
@@ -687,11 +684,9 @@ redirect_from:
             Y: =Parent.TemplateHeight - 1
 ```
 
-</details>
 
 ## 人々
 
-<details><summary>コード</summary>
 
 ```
 - RectQuickActionBar3:
@@ -914,11 +909,9 @@ redirect_from:
             Y: =Parent.TemplateHeight - 1
 ```
 
-</details>
 
 ## 会議
 
-<details><summary>コード</summary>
 
 ```
 - RectQuickActionBar4:
@@ -1739,7 +1732,6 @@ redirect_from:
             Y: =Parent.TemplateHeight - 1
 ```
 
-</details>
 
 ## 利用方法
 
